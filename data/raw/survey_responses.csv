@@ -1,0 +1,1001 @@
+employee_id,q_work_life_balance,q_manager_effectiveness,q_career_growth,overall_satisfaction,satisfaction_category,open_comment
+EMP0001,2.0,4.0,4.0,2.0,Low,Too much workload
+EMP0002,4.0,5.0,2.0,4.0,High,Great place to work
+EMP0003,3.0,2.0,3.0,2.0,Low,No work life balance
+EMP0004,4.0,4.0,3.0,5.0,High,Love my team
+EMP0005,,4.0,2.0,4.0,High,Love my team
+EMP0006,2.0,,4.0,3.0,Medium,Could be better
+EMP0007,1.0,4.0,3.0,3.0,Medium,Average experience
+EMP0008,4.0,3.0,4.0,3.0,Medium,Normal workplace
+EMP0009,2.0,4.0,2.0,4.0,High,Great place to work
+EMP0010,4.0,3.0,5.0,5.0,High,Happy with benefits
+EMP0011,3.0,2.0,2.0,3.0,Medium,Nothing special
+EMP0012,4.0,5.0,3.0,5.0,High,Great place to work
+EMP0013,3.0,5.0,4.0,4.0,High,Great place to work
+EMP0014,,4.0,3.0,3.0,Medium,Average experience
+EMP0015,2.0,4.0,4.0,3.0,Medium,Could be better
+EMP0016,3.0,5.0,2.0,4.0,High,Love my team
+EMP0017,1.0,4.0,5.0,3.0,Medium,Normal workplace
+EMP0018,3.0,5.0,3.0,4.0,High,Happy with benefits
+EMP0019,4.0,4.0,2.0,4.0,High,Great place to work
+EMP0020,2.0,5.0,3.0,3.0,Medium,Normal workplace
+EMP0021,3.0,4.0,4.0,4.0,High,Love my team
+EMP0022,2.0,4.0,2.0,3.0,Medium,Normal workplace
+EMP0023,,3.0,2.0,3.0,Medium,Nothing special
+EMP0024,3.0,4.0,3.0,4.0,High,Love my team
+EMP0025,5.0,3.0,2.0,3.0,Medium,Nothing special
+EMP0026,4.0,3.0,5.0,4.0,High,Happy with benefits
+EMP0027,3.0,3.0,3.0,2.0,Low,No work life balance
+EMP0028,5.0,3.0,4.0,3.0,Medium,Average experience
+EMP0029,4.0,5.0,3.0,4.0,High,Love my team
+EMP0030,4.0,5.0,2.0,4.0,High,Supportive manager
+EMP0031,3.0,5.0,3.0,4.0,High,Excellent culture
+EMP0032,3.0,3.0,4.0,3.0,Medium,Work is okay
+EMP0033,3.0,4.0,3.0,4.0,High,Love my team
+EMP0034,3.0,3.0,5.0,3.0,Medium,Could be better
+EMP0035,,3.0,4.0,2.0,Low,No work life balance
+EMP0036,3.0,3.0,4.0,4.0,High,Great place to work
+EMP0037,2.0,5.0,3.0,3.0,Medium,Average experience
+EMP0038,2.0,3.0,2.0,2.0,Low,Low career growth
+EMP0039,5.0,5.0,2.0,5.0,High,Great place to work
+EMP0040,3.0,,3.0,3.0,Medium,Work is okay
+EMP0041,2.0,,4.0,4.0,High,Excellent culture
+EMP0042,4.0,2.0,1.0,3.0,Medium,Normal workplace
+EMP0043,2.0,5.0,3.0,3.0,Medium,Work is okay
+EMP0044,1.0,5.0,3.0,4.0,High,Great place to work
+EMP0045,2.0,3.0,3.0,3.0,Medium,Nothing special
+EMP0046,4.0,5.0,5.0,5.0,High,Happy with benefits
+EMP0047,2.0,4.0,4.0,4.0,High,Great place to work
+EMP0048,3.0,,5.0,4.0,High,Supportive manager
+EMP0049,2.0,3.0,3.0,3.0,Medium,Average experience
+EMP0050,1.0,,4.0,4.0,High,Happy with benefits
+EMP0051,3.0,5.0,5.0,4.0,High,Excellent culture
+EMP0052,2.0,4.0,5.0,3.0,Medium,Normal workplace
+EMP0053,3.0,5.0,2.0,4.0,High,Excellent culture
+EMP0054,3.0,3.0,3.0,4.0,High,Happy with benefits
+EMP0055,3.0,3.0,3.0,2.0,Low,Poor management
+EMP0056,1.0,5.0,4.0,2.0,Low,Too much workload
+EMP0057,2.0,2.0,4.0,2.0,Low,Too much workload
+EMP0058,3.0,3.0,2.0,2.0,Low,Poor management
+EMP0059,1.0,,3.0,2.0,Low,No work life balance
+EMP0060,3.0,4.0,1.0,3.0,Medium,Average experience
+EMP0061,4.0,4.0,5.0,4.0,High,Love my team
+EMP0062,,4.0,3.0,3.0,Medium,Average experience
+EMP0063,4.0,4.0,3.0,4.0,High,Supportive manager
+EMP0064,4.0,5.0,3.0,5.0,High,Excellent culture
+EMP0065,3.0,3.0,5.0,3.0,Medium,Nothing special
+EMP0066,4.0,4.0,1.0,4.0,High,Excellent culture
+EMP0067,4.0,5.0,3.0,5.0,High,Love my team
+EMP0068,5.0,5.0,3.0,5.0,High,Excellent culture
+EMP0069,2.0,2.0,3.0,3.0,Medium,Work is okay
+EMP0070,4.0,4.0,5.0,5.0,High,Love my team
+EMP0071,4.0,2.0,2.0,3.0,Medium,Work is okay
+EMP0072,2.0,4.0,4.0,3.0,Medium,Average experience
+EMP0073,1.0,5.0,4.0,3.0,Medium,Normal workplace
+EMP0074,3.0,,5.0,3.0,Medium,Could be better
+EMP0075,5.0,3.0,2.0,4.0,High,Happy with benefits
+EMP0076,4.0,5.0,2.0,3.0,Medium,Could be better
+EMP0077,3.0,2.0,5.0,3.0,Medium,Could be better
+EMP0078,4.0,3.0,4.0,4.0,High,Supportive manager
+EMP0079,4.0,4.0,1.0,4.0,High,Supportive manager
+EMP0080,2.0,3.0,3.0,2.0,Low,No work life balance
+EMP0081,4.0,4.0,4.0,4.0,High,Happy with benefits
+EMP0082,4.0,5.0,4.0,5.0,High,Love my team
+EMP0083,2.0,,2.0,4.0,High,Excellent culture
+EMP0084,2.0,4.0,1.0,3.0,Medium,Average experience
+EMP0085,3.0,3.0,4.0,4.0,High,Love my team
+EMP0086,4.0,4.0,2.0,5.0,High,Great place to work
+EMP0087,2.0,4.0,1.0,3.0,Medium,Work is okay
+EMP0088,4.0,4.0,1.0,3.0,Medium,Nothing special
+EMP0089,5.0,3.0,4.0,4.0,High,Excellent culture
+EMP0090,3.0,4.0,3.0,3.0,Medium,Average experience
+EMP0091,1.0,3.0,3.0,3.0,Medium,Could be better
+EMP0092,3.0,4.0,5.0,4.0,High,Happy with benefits
+EMP0093,,3.0,4.0,3.0,Medium,Work is okay
+EMP0094,3.0,3.0,5.0,3.0,Medium,Could be better
+EMP0095,3.0,4.0,2.0,4.0,High,Supportive manager
+EMP0096,2.0,4.0,3.0,3.0,Medium,Nothing special
+EMP0097,4.0,5.0,1.0,4.0,High,Supportive manager
+EMP0098,4.0,3.0,3.0,4.0,High,Love my team
+EMP0099,3.0,4.0,3.0,3.0,Medium,Work is okay
+EMP0100,2.0,4.0,4.0,3.0,Medium,Could be better
+EMP0101,3.0,4.0,3.0,4.0,High,Love my team
+EMP0102,5.0,3.0,4.0,5.0,High,Happy with benefits
+EMP0103,3.0,4.0,4.0,3.0,Medium,Normal workplace
+EMP0104,,4.0,5.0,4.0,High,Excellent culture
+EMP0105,2.0,4.0,3.0,3.0,Medium,Normal workplace
+EMP0106,2.0,2.0,2.0,1.0,Low,Low career growth
+EMP0107,4.0,4.0,3.0,4.0,High,Happy with benefits
+EMP0108,4.0,5.0,2.0,5.0,High,Supportive manager
+EMP0109,2.0,3.0,5.0,3.0,Medium,Work is okay
+EMP0110,2.0,3.0,3.0,3.0,Medium,Could be better
+EMP0111,3.0,4.0,3.0,3.0,Medium,Could be better
+EMP0112,3.0,4.0,3.0,3.0,Medium,Normal workplace
+EMP0113,4.0,5.0,4.0,4.0,High,Supportive manager
+EMP0114,2.0,3.0,3.0,2.0,Low,Too much workload
+EMP0115,4.0,5.0,2.0,3.0,Medium,Average experience
+EMP0116,2.0,4.0,5.0,4.0,High,Great place to work
+EMP0117,4.0,4.0,2.0,4.0,High,Love my team
+EMP0118,3.0,4.0,3.0,4.0,High,Love my team
+EMP0119,3.0,5.0,4.0,4.0,High,Supportive manager
+EMP0120,4.0,5.0,1.0,4.0,High,Happy with benefits
+EMP0121,4.0,3.0,4.0,3.0,Medium,Average experience
+EMP0122,3.0,5.0,2.0,4.0,High,Supportive manager
+EMP0123,1.0,4.0,4.0,3.0,Medium,Nothing special
+EMP0124,2.0,4.0,2.0,2.0,Low,Need better leadership
+EMP0125,,4.0,4.0,4.0,High,Supportive manager
+EMP0126,2.0,4.0,5.0,4.0,High,Happy with benefits
+EMP0127,4.0,5.0,4.0,4.0,High,Excellent culture
+EMP0128,3.0,4.0,4.0,3.0,Medium,Normal workplace
+EMP0129,3.0,,3.0,3.0,Medium,Average experience
+EMP0130,3.0,3.0,3.0,2.0,Low,Too much workload
+EMP0131,3.0,4.0,5.0,4.0,High,Happy with benefits
+EMP0132,3.0,5.0,2.0,3.0,Medium,Work is okay
+EMP0133,4.0,4.0,2.0,4.0,High,Excellent culture
+EMP0134,4.0,3.0,4.0,5.0,High,Great place to work
+EMP0135,4.0,5.0,2.0,4.0,High,Excellent culture
+EMP0136,3.0,4.0,2.0,3.0,Medium,Nothing special
+EMP0137,4.0,5.0,1.0,3.0,Medium,Could be better
+EMP0138,4.0,4.0,3.0,4.0,High,Supportive manager
+EMP0139,2.0,4.0,3.0,2.0,Low,Too much workload
+EMP0140,3.0,5.0,3.0,4.0,High,Excellent culture
+EMP0141,3.0,5.0,4.0,4.0,High,Happy with benefits
+EMP0142,1.0,5.0,4.0,3.0,Medium,Could be better
+EMP0143,4.0,5.0,3.0,4.0,High,Happy with benefits
+EMP0144,2.0,3.0,3.0,3.0,Medium,Average experience
+EMP0145,2.0,3.0,4.0,2.0,Low,No work life balance
+EMP0146,3.0,4.0,5.0,4.0,High,Happy with benefits
+EMP0147,4.0,,3.0,4.0,High,Happy with benefits
+EMP0148,5.0,4.0,3.0,4.0,High,Love my team
+EMP0149,2.0,5.0,2.0,3.0,Medium,Could be better
+EMP0150,2.0,5.0,1.0,3.0,Medium,Work is okay
+EMP0151,5.0,3.0,4.0,4.0,High,Love my team
+EMP0152,1.0,3.0,4.0,3.0,Medium,Normal workplace
+EMP0153,2.0,4.0,4.0,3.0,Medium,Normal workplace
+EMP0154,5.0,4.0,3.0,5.0,High,Great place to work
+EMP0155,4.0,3.0,5.0,5.0,High,Happy with benefits
+EMP0156,3.0,,3.0,3.0,Medium,Work is okay
+EMP0157,3.0,,4.0,3.0,Medium,Nothing special
+EMP0158,5.0,4.0,3.0,4.0,High,Great place to work
+EMP0159,,2.0,2.0,3.0,Medium,Average experience
+EMP0160,5.0,2.0,4.0,5.0,High,Excellent culture
+EMP0161,2.0,4.0,4.0,3.0,Medium,Work is okay
+EMP0162,2.0,,4.0,2.0,Low,Poor management
+EMP0163,4.0,5.0,3.0,4.0,High,Great place to work
+EMP0164,1.0,,3.0,3.0,Medium,Could be better
+EMP0165,3.0,5.0,5.0,4.0,High,Happy with benefits
+EMP0166,4.0,5.0,5.0,5.0,High,Great place to work
+EMP0167,3.0,4.0,4.0,4.0,High,Great place to work
+EMP0168,2.0,4.0,3.0,3.0,Medium,Nothing special
+EMP0169,3.0,5.0,4.0,4.0,High,Great place to work
+EMP0170,3.0,5.0,4.0,4.0,High,Happy with benefits
+EMP0171,2.0,,3.0,3.0,Medium,Could be better
+EMP0172,2.0,2.0,3.0,2.0,Low,Poor management
+EMP0173,5.0,3.0,3.0,4.0,High,Supportive manager
+EMP0174,3.0,4.0,1.0,3.0,Medium,Normal workplace
+EMP0175,5.0,4.0,3.0,4.0,High,Love my team
+EMP0176,3.0,5.0,3.0,3.0,Medium,Work is okay
+EMP0177,3.0,3.0,5.0,4.0,High,Happy with benefits
+EMP0178,3.0,1.0,3.0,3.0,Medium,Normal workplace
+EMP0179,5.0,5.0,2.0,4.0,High,Supportive manager
+EMP0180,2.0,3.0,3.0,2.0,Low,Poor management
+EMP0181,3.0,2.0,2.0,2.0,Low,Need better leadership
+EMP0182,5.0,4.0,4.0,5.0,High,Love my team
+EMP0183,5.0,5.0,4.0,5.0,High,Excellent culture
+EMP0184,3.0,4.0,4.0,4.0,High,Supportive manager
+EMP0185,1.0,3.0,2.0,2.0,Low,No work life balance
+EMP0186,,4.0,3.0,4.0,High,Supportive manager
+EMP0187,5.0,3.0,2.0,3.0,Medium,Normal workplace
+EMP0188,4.0,,4.0,3.0,Medium,Nothing special
+EMP0189,4.0,3.0,4.0,4.0,High,Great place to work
+EMP0190,2.0,4.0,4.0,3.0,Medium,Could be better
+EMP0191,3.0,4.0,3.0,3.0,Medium,Could be better
+EMP0192,4.0,4.0,4.0,5.0,High,Great place to work
+EMP0193,,3.0,5.0,2.0,Low,No work life balance
+EMP0194,3.0,4.0,3.0,4.0,High,Great place to work
+EMP0195,3.0,2.0,3.0,3.0,Medium,Normal workplace
+EMP0196,2.0,4.0,2.0,3.0,Medium,Normal workplace
+EMP0197,4.0,5.0,2.0,4.0,High,Love my team
+EMP0198,3.0,2.0,3.0,2.0,Low,Need better leadership
+EMP0199,5.0,3.0,5.0,4.0,High,Love my team
+EMP0200,5.0,4.0,3.0,4.0,High,Great place to work
+EMP0201,3.0,5.0,3.0,3.0,Medium,Average experience
+EMP0202,1.0,,3.0,2.0,Low,Too much workload
+EMP0203,4.0,3.0,3.0,3.0,Medium,Could be better
+EMP0204,3.0,2.0,4.0,3.0,Medium,Average experience
+EMP0205,4.0,4.0,1.0,3.0,Medium,Average experience
+EMP0206,3.0,5.0,5.0,5.0,High,Excellent culture
+EMP0207,1.0,4.0,2.0,3.0,Medium,Average experience
+EMP0208,4.0,4.0,4.0,4.0,High,Happy with benefits
+EMP0209,,4.0,2.0,3.0,Medium,Could be better
+EMP0210,4.0,4.0,4.0,3.0,Medium,Work is okay
+EMP0211,4.0,3.0,4.0,5.0,High,Supportive manager
+EMP0212,3.0,5.0,4.0,4.0,High,Love my team
+EMP0213,4.0,4.0,2.0,3.0,Medium,Normal workplace
+EMP0214,4.0,4.0,3.0,4.0,High,Love my team
+EMP0215,3.0,3.0,2.0,3.0,Medium,Normal workplace
+EMP0216,3.0,5.0,3.0,4.0,High,Happy with benefits
+EMP0217,2.0,4.0,4.0,4.0,High,Supportive manager
+EMP0218,3.0,3.0,4.0,4.0,High,Love my team
+EMP0219,3.0,5.0,3.0,3.0,Medium,Nothing special
+EMP0220,3.0,3.0,2.0,2.0,Low,Low career growth
+EMP0221,3.0,3.0,4.0,4.0,High,Love my team
+EMP0222,2.0,3.0,3.0,1.0,Low,Too much workload
+EMP0223,3.0,2.0,1.0,2.0,Low,Too much workload
+EMP0224,2.0,4.0,4.0,2.0,Low,Low career growth
+EMP0225,4.0,,3.0,3.0,Medium,Work is okay
+EMP0226,2.0,3.0,5.0,3.0,Medium,Nothing special
+EMP0227,3.0,2.0,2.0,2.0,Low,Low career growth
+EMP0228,2.0,4.0,1.0,2.0,Low,Low career growth
+EMP0229,4.0,4.0,4.0,3.0,Medium,Average experience
+EMP0230,3.0,3.0,4.0,4.0,High,Great place to work
+EMP0231,2.0,3.0,1.0,3.0,Medium,Average experience
+EMP0232,2.0,3.0,2.0,2.0,Low,Low career growth
+EMP0233,3.0,4.0,5.0,5.0,High,Excellent culture
+EMP0234,3.0,3.0,3.0,3.0,Medium,Average experience
+EMP0235,4.0,4.0,4.0,4.0,High,Love my team
+EMP0236,2.0,3.0,2.0,2.0,Low,Poor management
+EMP0237,2.0,4.0,1.0,2.0,Low,Poor management
+EMP0238,4.0,5.0,3.0,5.0,High,Happy with benefits
+EMP0239,4.0,4.0,3.0,4.0,High,Supportive manager
+EMP0240,2.0,3.0,3.0,2.0,Low,Poor management
+EMP0241,3.0,4.0,3.0,3.0,Medium,Nothing special
+EMP0242,3.0,4.0,4.0,3.0,Medium,Could be better
+EMP0243,3.0,4.0,3.0,3.0,Medium,Work is okay
+EMP0244,2.0,3.0,2.0,2.0,Low,Low career growth
+EMP0245,2.0,4.0,4.0,3.0,Medium,Could be better
+EMP0246,2.0,4.0,1.0,2.0,Low,Too much workload
+EMP0247,3.0,3.0,1.0,3.0,Medium,Nothing special
+EMP0248,4.0,3.0,4.0,4.0,High,Happy with benefits
+EMP0249,4.0,2.0,4.0,3.0,Medium,Average experience
+EMP0250,5.0,2.0,3.0,3.0,Medium,Average experience
+EMP0251,3.0,3.0,2.0,4.0,High,Happy with benefits
+EMP0252,1.0,,2.0,3.0,Medium,Average experience
+EMP0253,3.0,3.0,3.0,3.0,Medium,Average experience
+EMP0254,2.0,4.0,1.0,2.0,Low,Poor management
+EMP0255,1.0,4.0,2.0,3.0,Medium,Could be better
+EMP0256,3.0,2.0,4.0,3.0,Medium,Nothing special
+EMP0257,4.0,4.0,5.0,4.0,High,Supportive manager
+EMP0258,3.0,5.0,3.0,4.0,High,Supportive manager
+EMP0259,3.0,3.0,4.0,3.0,Medium,Could be better
+EMP0260,3.0,4.0,1.0,3.0,Medium,Nothing special
+EMP0261,5.0,,4.0,3.0,Medium,Average experience
+EMP0262,3.0,4.0,2.0,3.0,Medium,Could be better
+EMP0263,3.0,3.0,4.0,4.0,High,Supportive manager
+EMP0264,4.0,2.0,3.0,3.0,Medium,Average experience
+EMP0265,4.0,3.0,5.0,4.0,High,Supportive manager
+EMP0266,4.0,4.0,2.0,3.0,Medium,Work is okay
+EMP0267,4.0,3.0,4.0,4.0,High,Supportive manager
+EMP0268,2.0,3.0,3.0,2.0,Low,No work life balance
+EMP0269,1.0,3.0,3.0,2.0,Low,Low career growth
+EMP0270,4.0,4.0,3.0,4.0,High,Happy with benefits
+EMP0271,3.0,4.0,2.0,4.0,High,Supportive manager
+EMP0272,2.0,4.0,3.0,3.0,Medium,Could be better
+EMP0273,3.0,3.0,3.0,3.0,Medium,Could be better
+EMP0274,5.0,5.0,3.0,5.0,High,Excellent culture
+EMP0275,5.0,,3.0,4.0,High,Love my team
+EMP0276,3.0,,4.0,3.0,Medium,Average experience
+EMP0277,4.0,5.0,4.0,5.0,High,Happy with benefits
+EMP0278,3.0,4.0,2.0,3.0,Medium,Normal workplace
+EMP0279,2.0,4.0,4.0,3.0,Medium,Average experience
+EMP0280,3.0,3.0,2.0,4.0,High,Excellent culture
+EMP0281,5.0,,4.0,5.0,High,Great place to work
+EMP0282,5.0,2.0,4.0,3.0,Medium,Average experience
+EMP0283,3.0,3.0,1.0,1.0,Low,Need better leadership
+EMP0284,2.0,3.0,3.0,3.0,Medium,Nothing special
+EMP0285,5.0,5.0,3.0,4.0,High,Happy with benefits
+EMP0286,5.0,4.0,2.0,3.0,Medium,Normal workplace
+EMP0287,5.0,3.0,5.0,4.0,High,Love my team
+EMP0288,3.0,3.0,2.0,4.0,High,Great place to work
+EMP0289,1.0,3.0,2.0,2.0,Low,Need better leadership
+EMP0290,2.0,3.0,3.0,3.0,Medium,Average experience
+EMP0291,3.0,5.0,4.0,4.0,High,Love my team
+EMP0292,3.0,2.0,3.0,2.0,Low,Too much workload
+EMP0293,4.0,5.0,5.0,5.0,High,Happy with benefits
+EMP0294,4.0,5.0,4.0,4.0,High,Great place to work
+EMP0295,3.0,5.0,1.0,4.0,High,Love my team
+EMP0296,3.0,3.0,3.0,3.0,Medium,Nothing special
+EMP0297,3.0,4.0,3.0,4.0,High,Great place to work
+EMP0298,2.0,2.0,4.0,2.0,Low,Need better leadership
+EMP0299,3.0,3.0,1.0,3.0,Medium,Could be better
+EMP0300,2.0,4.0,5.0,3.0,Medium,Normal workplace
+EMP0301,2.0,5.0,4.0,3.0,Medium,Normal workplace
+EMP0302,4.0,3.0,3.0,3.0,Medium,Average experience
+EMP0303,5.0,3.0,5.0,4.0,High,Happy with benefits
+EMP0304,3.0,4.0,5.0,4.0,High,Great place to work
+EMP0305,3.0,2.0,4.0,3.0,Medium,Nothing special
+EMP0306,3.0,4.0,4.0,3.0,Medium,Normal workplace
+EMP0307,5.0,3.0,3.0,4.0,High,Happy with benefits
+EMP0308,1.0,4.0,3.0,3.0,Medium,Normal workplace
+EMP0309,3.0,3.0,3.0,3.0,Medium,Work is okay
+EMP0310,3.0,3.0,2.0,3.0,Medium,Work is okay
+EMP0311,2.0,4.0,2.0,3.0,Medium,Could be better
+EMP0312,2.0,4.0,2.0,3.0,Medium,Work is okay
+EMP0313,,3.0,3.0,2.0,Low,Poor management
+EMP0314,3.0,3.0,1.0,2.0,Low,No work life balance
+EMP0315,3.0,4.0,3.0,4.0,High,Supportive manager
+EMP0316,3.0,5.0,3.0,5.0,High,Love my team
+EMP0317,4.0,4.0,3.0,4.0,High,Excellent culture
+EMP0318,4.0,5.0,3.0,4.0,High,Supportive manager
+EMP0319,2.0,2.0,5.0,3.0,Medium,Work is okay
+EMP0320,,4.0,5.0,3.0,Medium,Average experience
+EMP0321,1.0,3.0,2.0,2.0,Low,Too much workload
+EMP0322,3.0,2.0,3.0,2.0,Low,Low career growth
+EMP0323,3.0,3.0,2.0,3.0,Medium,Normal workplace
+EMP0324,2.0,5.0,2.0,3.0,Medium,Normal workplace
+EMP0325,3.0,5.0,2.0,3.0,Medium,Average experience
+EMP0326,3.0,4.0,4.0,3.0,Medium,Average experience
+EMP0327,4.0,2.0,2.0,3.0,Medium,Normal workplace
+EMP0328,,4.0,4.0,3.0,Medium,Could be better
+EMP0329,1.0,4.0,4.0,2.0,Low,Need better leadership
+EMP0330,3.0,4.0,5.0,4.0,High,Excellent culture
+EMP0331,1.0,2.0,2.0,2.0,Low,Poor management
+EMP0332,,3.0,4.0,3.0,Medium,Work is okay
+EMP0333,3.0,,4.0,4.0,High,Great place to work
+EMP0334,1.0,4.0,3.0,2.0,Low,Poor management
+EMP0335,4.0,2.0,2.0,3.0,Medium,Work is okay
+EMP0336,3.0,4.0,5.0,4.0,High,Excellent culture
+EMP0337,3.0,4.0,3.0,3.0,Medium,Could be better
+EMP0338,4.0,5.0,4.0,4.0,High,Supportive manager
+EMP0339,4.0,4.0,2.0,4.0,High,Happy with benefits
+EMP0340,2.0,4.0,2.0,2.0,Low,No work life balance
+EMP0341,4.0,3.0,3.0,4.0,High,Happy with benefits
+EMP0342,4.0,2.0,3.0,4.0,High,Happy with benefits
+EMP0343,2.0,3.0,2.0,3.0,Medium,Average experience
+EMP0344,5.0,5.0,3.0,5.0,High,Happy with benefits
+EMP0345,2.0,5.0,1.0,3.0,Medium,Work is okay
+EMP0346,5.0,5.0,2.0,5.0,High,Great place to work
+EMP0347,3.0,4.0,4.0,4.0,High,Love my team
+EMP0348,3.0,4.0,4.0,4.0,High,Excellent culture
+EMP0349,2.0,,3.0,3.0,Medium,Average experience
+EMP0350,3.0,4.0,2.0,3.0,Medium,Average experience
+EMP0351,3.0,5.0,2.0,4.0,High,Happy with benefits
+EMP0352,4.0,3.0,3.0,3.0,Medium,Could be better
+EMP0353,2.0,5.0,4.0,3.0,Medium,Work is okay
+EMP0354,2.0,3.0,4.0,3.0,Medium,Work is okay
+EMP0355,,5.0,3.0,4.0,High,Happy with benefits
+EMP0356,2.0,2.0,2.0,3.0,Medium,Could be better
+EMP0357,2.0,4.0,4.0,3.0,Medium,Work is okay
+EMP0358,5.0,3.0,2.0,4.0,High,Love my team
+EMP0359,3.0,2.0,3.0,2.0,Low,No work life balance
+EMP0360,4.0,4.0,5.0,4.0,High,Happy with benefits
+EMP0361,2.0,5.0,4.0,3.0,Medium,Nothing special
+EMP0362,4.0,3.0,3.0,3.0,Medium,Work is okay
+EMP0363,4.0,2.0,2.0,3.0,Medium,Average experience
+EMP0364,5.0,4.0,3.0,5.0,High,Great place to work
+EMP0365,3.0,,4.0,3.0,Medium,Nothing special
+EMP0366,1.0,4.0,3.0,3.0,Medium,Work is okay
+EMP0367,4.0,5.0,5.0,5.0,High,Great place to work
+EMP0368,5.0,4.0,5.0,4.0,High,Great place to work
+EMP0369,3.0,5.0,5.0,4.0,High,Excellent culture
+EMP0370,3.0,4.0,4.0,4.0,High,Love my team
+EMP0371,2.0,3.0,4.0,3.0,Medium,Work is okay
+EMP0372,4.0,2.0,5.0,3.0,Medium,Could be better
+EMP0373,3.0,4.0,4.0,4.0,High,Supportive manager
+EMP0374,4.0,3.0,3.0,3.0,Medium,Normal workplace
+EMP0375,1.0,5.0,3.0,4.0,High,Supportive manager
+EMP0376,3.0,4.0,3.0,3.0,Medium,Normal workplace
+EMP0377,,3.0,2.0,3.0,Medium,Average experience
+EMP0378,3.0,4.0,3.0,5.0,High,Great place to work
+EMP0379,4.0,4.0,5.0,4.0,High,Great place to work
+EMP0380,3.0,5.0,1.0,3.0,Medium,Could be better
+EMP0381,2.0,5.0,5.0,4.0,High,Happy with benefits
+EMP0382,4.0,5.0,5.0,4.0,High,Great place to work
+EMP0383,4.0,4.0,3.0,4.0,High,Excellent culture
+EMP0384,5.0,4.0,4.0,5.0,High,Happy with benefits
+EMP0385,3.0,5.0,3.0,3.0,Medium,Normal workplace
+EMP0386,3.0,2.0,5.0,2.0,Low,Poor management
+EMP0387,3.0,3.0,4.0,2.0,Low,Low career growth
+EMP0388,2.0,3.0,2.0,3.0,Medium,Could be better
+EMP0389,4.0,4.0,4.0,5.0,High,Great place to work
+EMP0390,3.0,,3.0,4.0,High,Excellent culture
+EMP0391,,3.0,3.0,4.0,High,Excellent culture
+EMP0392,3.0,1.0,2.0,3.0,Medium,Average experience
+EMP0393,3.0,,5.0,4.0,High,Excellent culture
+EMP0394,2.0,5.0,4.0,3.0,Medium,Could be better
+EMP0395,1.0,4.0,2.0,1.0,Low,Poor management
+EMP0396,1.0,,2.0,2.0,Low,Too much workload
+EMP0397,3.0,4.0,3.0,3.0,Medium,Work is okay
+EMP0398,2.0,3.0,4.0,3.0,Medium,Normal workplace
+EMP0399,5.0,4.0,3.0,4.0,High,Supportive manager
+EMP0400,4.0,3.0,5.0,4.0,High,Happy with benefits
+EMP0401,2.0,5.0,4.0,4.0,High,Love my team
+EMP0402,5.0,4.0,4.0,4.0,High,Love my team
+EMP0403,3.0,3.0,4.0,4.0,High,Love my team
+EMP0404,5.0,3.0,2.0,4.0,High,Love my team
+EMP0405,4.0,4.0,3.0,4.0,High,Supportive manager
+EMP0406,,,4.0,4.0,High,Great place to work
+EMP0407,2.0,5.0,3.0,3.0,Medium,Could be better
+EMP0408,2.0,4.0,4.0,4.0,High,Excellent culture
+EMP0409,3.0,3.0,3.0,2.0,Low,Low career growth
+EMP0410,2.0,5.0,2.0,3.0,Medium,Could be better
+EMP0411,1.0,4.0,3.0,3.0,Medium,Work is okay
+EMP0412,2.0,5.0,4.0,4.0,High,Love my team
+EMP0413,5.0,3.0,2.0,4.0,High,Great place to work
+EMP0414,3.0,4.0,3.0,3.0,Medium,Nothing special
+EMP0415,4.0,4.0,2.0,3.0,Medium,Average experience
+EMP0416,3.0,2.0,5.0,3.0,Medium,Nothing special
+EMP0417,1.0,5.0,3.0,3.0,Medium,Could be better
+EMP0418,2.0,5.0,5.0,3.0,Medium,Could be better
+EMP0419,,3.0,5.0,3.0,Medium,Nothing special
+EMP0420,3.0,3.0,3.0,2.0,Low,No work life balance
+EMP0421,2.0,4.0,2.0,2.0,Low,No work life balance
+EMP0422,5.0,4.0,1.0,3.0,Medium,Could be better
+EMP0423,3.0,4.0,1.0,3.0,Medium,Could be better
+EMP0424,4.0,4.0,2.0,4.0,High,Great place to work
+EMP0425,2.0,4.0,5.0,3.0,Medium,Could be better
+EMP0426,3.0,5.0,3.0,4.0,High,Supportive manager
+EMP0427,4.0,4.0,4.0,3.0,Medium,Work is okay
+EMP0428,4.0,3.0,1.0,3.0,Medium,Work is okay
+EMP0429,2.0,5.0,2.0,3.0,Medium,Average experience
+EMP0430,3.0,5.0,4.0,4.0,High,Excellent culture
+EMP0431,4.0,5.0,4.0,5.0,High,Excellent culture
+EMP0432,4.0,,3.0,4.0,High,Happy with benefits
+EMP0433,2.0,4.0,4.0,4.0,High,Supportive manager
+EMP0434,2.0,2.0,5.0,3.0,Medium,Normal workplace
+EMP0435,2.0,4.0,3.0,3.0,Medium,Work is okay
+EMP0436,4.0,3.0,3.0,3.0,Medium,Average experience
+EMP0437,2.0,5.0,3.0,3.0,Medium,Average experience
+EMP0438,5.0,3.0,5.0,4.0,High,Excellent culture
+EMP0439,5.0,,1.0,3.0,Medium,Could be better
+EMP0440,3.0,3.0,4.0,2.0,Low,Need better leadership
+EMP0441,4.0,2.0,3.0,3.0,Medium,Work is okay
+EMP0442,3.0,5.0,4.0,4.0,High,Great place to work
+EMP0443,2.0,2.0,2.0,2.0,Low,Too much workload
+EMP0444,3.0,4.0,3.0,3.0,Medium,Normal workplace
+EMP0445,4.0,2.0,4.0,4.0,High,Supportive manager
+EMP0446,2.0,3.0,5.0,3.0,Medium,Work is okay
+EMP0447,4.0,5.0,4.0,4.0,High,Excellent culture
+EMP0448,3.0,4.0,2.0,3.0,Medium,Nothing special
+EMP0449,3.0,3.0,3.0,3.0,Medium,Normal workplace
+EMP0450,2.0,4.0,3.0,4.0,High,Happy with benefits
+EMP0451,3.0,4.0,1.0,3.0,Medium,Average experience
+EMP0452,5.0,4.0,3.0,4.0,High,Supportive manager
+EMP0453,4.0,2.0,4.0,3.0,Medium,Normal workplace
+EMP0454,2.0,4.0,2.0,2.0,Low,Poor management
+EMP0455,3.0,1.0,4.0,3.0,Medium,Work is okay
+EMP0456,2.0,3.0,4.0,3.0,Medium,Average experience
+EMP0457,1.0,3.0,2.0,2.0,Low,Low career growth
+EMP0458,3.0,4.0,3.0,3.0,Medium,Average experience
+EMP0459,1.0,4.0,5.0,2.0,Low,Need better leadership
+EMP0460,3.0,2.0,4.0,2.0,Low,Need better leadership
+EMP0461,2.0,3.0,3.0,2.0,Low,Poor management
+EMP0462,2.0,4.0,3.0,3.0,Medium,Work is okay
+EMP0463,3.0,4.0,3.0,3.0,Medium,Nothing special
+EMP0464,5.0,,3.0,3.0,Medium,Average experience
+EMP0465,2.0,3.0,1.0,2.0,Low,No work life balance
+EMP0466,3.0,4.0,5.0,4.0,High,Happy with benefits
+EMP0467,2.0,3.0,3.0,3.0,Medium,Work is okay
+EMP0468,4.0,4.0,4.0,3.0,Medium,Average experience
+EMP0469,2.0,5.0,3.0,3.0,Medium,Work is okay
+EMP0470,3.0,2.0,2.0,2.0,Low,Need better leadership
+EMP0471,2.0,2.0,3.0,3.0,Medium,Work is okay
+EMP0472,5.0,5.0,1.0,5.0,High,Supportive manager
+EMP0473,1.0,3.0,5.0,2.0,Low,No work life balance
+EMP0474,3.0,3.0,2.0,2.0,Low,Low career growth
+EMP0475,4.0,3.0,2.0,3.0,Medium,Work is okay
+EMP0476,4.0,4.0,3.0,3.0,Medium,Normal workplace
+EMP0477,4.0,5.0,5.0,5.0,High,Love my team
+EMP0478,4.0,5.0,3.0,4.0,High,Love my team
+EMP0479,1.0,5.0,2.0,3.0,Medium,Nothing special
+EMP0480,3.0,2.0,5.0,2.0,Low,Low career growth
+EMP0481,4.0,3.0,4.0,3.0,Medium,Could be better
+EMP0482,3.0,1.0,4.0,2.0,Low,Need better leadership
+EMP0483,4.0,3.0,4.0,3.0,Medium,Normal workplace
+EMP0484,4.0,5.0,5.0,4.0,High,Excellent culture
+EMP0485,3.0,4.0,5.0,4.0,High,Supportive manager
+EMP0486,4.0,4.0,2.0,3.0,Medium,Normal workplace
+EMP0487,1.0,4.0,5.0,3.0,Medium,Average experience
+EMP0488,2.0,3.0,4.0,3.0,Medium,Work is okay
+EMP0489,4.0,4.0,4.0,3.0,Medium,Work is okay
+EMP0490,4.0,5.0,1.0,4.0,High,Love my team
+EMP0491,3.0,2.0,3.0,3.0,Medium,Nothing special
+EMP0492,4.0,4.0,2.0,3.0,Medium,Normal workplace
+EMP0493,1.0,5.0,4.0,4.0,High,Happy with benefits
+EMP0494,3.0,3.0,4.0,3.0,Medium,Work is okay
+EMP0495,5.0,5.0,1.0,4.0,High,Supportive manager
+EMP0496,2.0,5.0,3.0,4.0,High,Supportive manager
+EMP0497,4.0,4.0,5.0,4.0,High,Supportive manager
+EMP0498,2.0,4.0,3.0,3.0,Medium,Could be better
+EMP0499,2.0,3.0,4.0,3.0,Medium,Normal workplace
+EMP0500,3.0,4.0,4.0,4.0,High,Supportive manager
+EMP0501,3.0,4.0,4.0,2.0,Low,Poor management
+EMP0502,3.0,4.0,3.0,2.0,Low,Too much workload
+EMP0503,3.0,3.0,2.0,3.0,Medium,Work is okay
+EMP0504,3.0,4.0,2.0,4.0,High,Happy with benefits
+EMP0505,3.0,,4.0,4.0,High,Happy with benefits
+EMP0506,3.0,4.0,3.0,3.0,Medium,Work is okay
+EMP0507,2.0,5.0,3.0,4.0,High,Great place to work
+EMP0508,3.0,4.0,3.0,4.0,High,Love my team
+EMP0509,4.0,5.0,3.0,3.0,Medium,Work is okay
+EMP0510,3.0,4.0,4.0,3.0,Medium,Could be better
+EMP0511,3.0,3.0,3.0,3.0,Medium,Could be better
+EMP0512,3.0,4.0,2.0,4.0,High,Love my team
+EMP0513,2.0,3.0,4.0,4.0,High,Great place to work
+EMP0514,4.0,3.0,3.0,3.0,Medium,Average experience
+EMP0515,3.0,4.0,3.0,3.0,Medium,Could be better
+EMP0516,2.0,4.0,5.0,4.0,High,Supportive manager
+EMP0517,1.0,3.0,3.0,3.0,Medium,Normal workplace
+EMP0518,4.0,5.0,4.0,4.0,High,Great place to work
+EMP0519,2.0,4.0,2.0,2.0,Low,Low career growth
+EMP0520,3.0,3.0,3.0,3.0,Medium,Nothing special
+EMP0521,,2.0,4.0,4.0,High,Happy with benefits
+EMP0522,2.0,4.0,1.0,2.0,Low,Poor management
+EMP0523,3.0,3.0,3.0,3.0,Medium,Nothing special
+EMP0524,5.0,4.0,3.0,5.0,High,Supportive manager
+EMP0525,4.0,3.0,3.0,4.0,High,Supportive manager
+EMP0526,4.0,2.0,4.0,3.0,Medium,Could be better
+EMP0527,4.0,3.0,4.0,3.0,Medium,Could be better
+EMP0528,3.0,3.0,5.0,4.0,High,Great place to work
+EMP0529,2.0,4.0,2.0,2.0,Low,Too much workload
+EMP0530,4.0,3.0,3.0,4.0,High,Supportive manager
+EMP0531,2.0,5.0,3.0,3.0,Medium,Could be better
+EMP0532,2.0,2.0,2.0,3.0,Medium,Could be better
+EMP0533,3.0,5.0,4.0,4.0,High,Happy with benefits
+EMP0534,4.0,4.0,5.0,5.0,High,Supportive manager
+EMP0535,3.0,5.0,3.0,4.0,High,Great place to work
+EMP0536,,4.0,4.0,4.0,High,Happy with benefits
+EMP0537,,5.0,3.0,4.0,High,Love my team
+EMP0538,3.0,3.0,2.0,4.0,High,Great place to work
+EMP0539,2.0,3.0,1.0,3.0,Medium,Nothing special
+EMP0540,,5.0,2.0,2.0,Low,Poor management
+EMP0541,3.0,4.0,2.0,3.0,Medium,Nothing special
+EMP0542,4.0,4.0,5.0,4.0,High,Happy with benefits
+EMP0543,4.0,5.0,3.0,4.0,High,Happy with benefits
+EMP0544,5.0,3.0,3.0,5.0,High,Happy with benefits
+EMP0545,5.0,4.0,4.0,4.0,High,Excellent culture
+EMP0546,2.0,3.0,2.0,1.0,Low,Low career growth
+EMP0547,3.0,4.0,2.0,3.0,Medium,Normal workplace
+EMP0548,4.0,4.0,3.0,4.0,High,Happy with benefits
+EMP0549,3.0,2.0,4.0,3.0,Medium,Nothing special
+EMP0550,4.0,3.0,4.0,3.0,Medium,Normal workplace
+EMP0551,5.0,5.0,3.0,5.0,High,Supportive manager
+EMP0552,5.0,5.0,3.0,5.0,High,Love my team
+EMP0553,3.0,4.0,4.0,4.0,High,Supportive manager
+EMP0554,4.0,4.0,3.0,4.0,High,Supportive manager
+EMP0555,2.0,4.0,2.0,3.0,Medium,Work is okay
+EMP0556,4.0,5.0,3.0,4.0,High,Love my team
+EMP0557,2.0,4.0,2.0,2.0,Low,No work life balance
+EMP0558,3.0,4.0,3.0,4.0,High,Happy with benefits
+EMP0559,2.0,5.0,3.0,4.0,High,Supportive manager
+EMP0560,3.0,3.0,5.0,4.0,High,Love my team
+EMP0561,3.0,5.0,3.0,4.0,High,Excellent culture
+EMP0562,1.0,2.0,2.0,1.0,Low,Low career growth
+EMP0563,3.0,5.0,3.0,4.0,High,Great place to work
+EMP0564,2.0,3.0,4.0,2.0,Low,No work life balance
+EMP0565,3.0,4.0,5.0,4.0,High,Love my team
+EMP0566,3.0,2.0,2.0,2.0,Low,No work life balance
+EMP0567,3.0,3.0,1.0,2.0,Low,No work life balance
+EMP0568,5.0,3.0,4.0,4.0,High,Excellent culture
+EMP0569,3.0,3.0,2.0,1.0,Low,Need better leadership
+EMP0570,1.0,4.0,3.0,2.0,Low,Too much workload
+EMP0571,4.0,5.0,3.0,4.0,High,Love my team
+EMP0572,3.0,4.0,3.0,3.0,Medium,Could be better
+EMP0573,2.0,4.0,4.0,3.0,Medium,Could be better
+EMP0574,4.0,3.0,2.0,2.0,Low,Low career growth
+EMP0575,2.0,3.0,3.0,2.0,Low,Poor management
+EMP0576,5.0,5.0,3.0,5.0,High,Love my team
+EMP0577,3.0,3.0,3.0,3.0,Medium,Average experience
+EMP0578,3.0,5.0,3.0,4.0,High,Supportive manager
+EMP0579,,4.0,4.0,4.0,High,Supportive manager
+EMP0580,5.0,4.0,4.0,5.0,High,Excellent culture
+EMP0581,2.0,5.0,4.0,3.0,Medium,Normal workplace
+EMP0582,5.0,5.0,4.0,5.0,High,Supportive manager
+EMP0583,4.0,4.0,1.0,3.0,Medium,Nothing special
+EMP0584,2.0,3.0,3.0,3.0,Medium,Average experience
+EMP0585,4.0,4.0,4.0,5.0,High,Love my team
+EMP0586,,4.0,4.0,4.0,High,Supportive manager
+EMP0587,2.0,5.0,2.0,4.0,High,Supportive manager
+EMP0588,4.0,4.0,2.0,3.0,Medium,Normal workplace
+EMP0589,1.0,4.0,3.0,3.0,Medium,Average experience
+EMP0590,3.0,5.0,4.0,4.0,High,Happy with benefits
+EMP0591,1.0,4.0,4.0,4.0,High,Supportive manager
+EMP0592,3.0,4.0,3.0,3.0,Medium,Nothing special
+EMP0593,1.0,2.0,4.0,2.0,Low,Too much workload
+EMP0594,3.0,1.0,3.0,3.0,Medium,Work is okay
+EMP0595,3.0,4.0,3.0,3.0,Medium,Work is okay
+EMP0596,3.0,4.0,3.0,4.0,High,Supportive manager
+EMP0597,3.0,3.0,4.0,4.0,High,Supportive manager
+EMP0598,3.0,4.0,4.0,4.0,High,Happy with benefits
+EMP0599,2.0,,5.0,3.0,Medium,Normal workplace
+EMP0600,2.0,5.0,2.0,4.0,High,Happy with benefits
+EMP0601,5.0,4.0,4.0,4.0,High,Love my team
+EMP0602,,3.0,3.0,3.0,Medium,Nothing special
+EMP0603,3.0,5.0,2.0,4.0,High,Love my team
+EMP0604,2.0,4.0,3.0,3.0,Medium,Work is okay
+EMP0605,3.0,4.0,3.0,3.0,Medium,Nothing special
+EMP0606,4.0,3.0,5.0,4.0,High,Supportive manager
+EMP0607,2.0,3.0,3.0,2.0,Low,Too much workload
+EMP0608,2.0,4.0,2.0,3.0,Medium,Nothing special
+EMP0609,3.0,4.0,4.0,4.0,High,Excellent culture
+EMP0610,4.0,4.0,1.0,3.0,Medium,Nothing special
+EMP0611,4.0,4.0,3.0,3.0,Medium,Could be better
+EMP0612,3.0,2.0,3.0,3.0,Medium,Nothing special
+EMP0613,2.0,3.0,4.0,3.0,Medium,Could be better
+EMP0614,4.0,5.0,4.0,5.0,High,Happy with benefits
+EMP0615,3.0,4.0,3.0,3.0,Medium,Normal workplace
+EMP0616,4.0,4.0,3.0,3.0,Medium,Average experience
+EMP0617,3.0,5.0,2.0,4.0,High,Supportive manager
+EMP0618,1.0,3.0,2.0,2.0,Low,Need better leadership
+EMP0619,3.0,2.0,4.0,2.0,Low,Need better leadership
+EMP0620,4.0,4.0,2.0,4.0,High,Great place to work
+EMP0621,2.0,3.0,3.0,2.0,Low,Too much workload
+EMP0622,5.0,3.0,2.0,3.0,Medium,Nothing special
+EMP0623,2.0,4.0,4.0,4.0,High,Love my team
+EMP0624,3.0,4.0,5.0,4.0,High,Supportive manager
+EMP0625,2.0,,2.0,2.0,Low,Poor management
+EMP0626,4.0,4.0,1.0,3.0,Medium,Average experience
+EMP0627,,,3.0,5.0,High,Excellent culture
+EMP0628,4.0,3.0,3.0,3.0,Medium,Nothing special
+EMP0629,4.0,4.0,3.0,4.0,High,Excellent culture
+EMP0630,3.0,3.0,3.0,3.0,Medium,Could be better
+EMP0631,2.0,3.0,3.0,3.0,Medium,Nothing special
+EMP0632,,,4.0,3.0,Medium,Work is okay
+EMP0633,3.0,3.0,4.0,2.0,Low,No work life balance
+EMP0634,5.0,4.0,1.0,3.0,Medium,Nothing special
+EMP0635,2.0,5.0,3.0,3.0,Medium,Work is okay
+EMP0636,4.0,3.0,3.0,3.0,Medium,Nothing special
+EMP0637,4.0,3.0,2.0,3.0,Medium,Work is okay
+EMP0638,1.0,4.0,5.0,3.0,Medium,Average experience
+EMP0639,3.0,4.0,2.0,4.0,High,Supportive manager
+EMP0640,2.0,,3.0,2.0,Low,Too much workload
+EMP0641,3.0,,4.0,5.0,High,Happy with benefits
+EMP0642,1.0,,2.0,2.0,Low,Too much workload
+EMP0643,2.0,1.0,1.0,1.0,Low,No work life balance
+EMP0644,3.0,3.0,3.0,4.0,High,Love my team
+EMP0645,3.0,5.0,4.0,5.0,High,Great place to work
+EMP0646,2.0,2.0,3.0,1.0,Low,Too much workload
+EMP0647,3.0,1.0,2.0,2.0,Low,Too much workload
+EMP0648,4.0,4.0,4.0,3.0,Medium,Could be better
+EMP0649,4.0,4.0,3.0,4.0,High,Love my team
+EMP0650,4.0,3.0,3.0,4.0,High,Great place to work
+EMP0651,1.0,3.0,3.0,2.0,Low,Need better leadership
+EMP0652,5.0,3.0,4.0,4.0,High,Love my team
+EMP0653,3.0,4.0,5.0,3.0,Medium,Could be better
+EMP0654,3.0,3.0,4.0,3.0,Medium,Could be better
+EMP0655,3.0,4.0,5.0,5.0,High,Supportive manager
+EMP0656,4.0,1.0,3.0,2.0,Low,Too much workload
+EMP0657,2.0,3.0,2.0,3.0,Medium,Normal workplace
+EMP0658,1.0,3.0,3.0,1.0,Low,Poor management
+EMP0659,5.0,4.0,3.0,4.0,High,Supportive manager
+EMP0660,2.0,3.0,2.0,2.0,Low,No work life balance
+EMP0661,2.0,5.0,3.0,3.0,Medium,Work is okay
+EMP0662,5.0,2.0,4.0,3.0,Medium,Could be better
+EMP0663,4.0,4.0,4.0,4.0,High,Happy with benefits
+EMP0664,3.0,4.0,4.0,4.0,High,Happy with benefits
+EMP0665,3.0,5.0,4.0,3.0,Medium,Average experience
+EMP0666,4.0,3.0,3.0,3.0,Medium,Could be better
+EMP0667,2.0,4.0,3.0,3.0,Medium,Work is okay
+EMP0668,2.0,2.0,2.0,1.0,Low,Too much workload
+EMP0669,1.0,1.0,5.0,3.0,Medium,Normal workplace
+EMP0670,3.0,,3.0,3.0,Medium,Average experience
+EMP0671,3.0,4.0,3.0,3.0,Medium,Work is okay
+EMP0672,4.0,5.0,2.0,4.0,High,Happy with benefits
+EMP0673,2.0,2.0,5.0,3.0,Medium,Nothing special
+EMP0674,3.0,4.0,2.0,3.0,Medium,Nothing special
+EMP0675,3.0,5.0,3.0,3.0,Medium,Could be better
+EMP0676,5.0,4.0,4.0,5.0,High,Great place to work
+EMP0677,1.0,4.0,4.0,3.0,Medium,Normal workplace
+EMP0678,4.0,4.0,4.0,4.0,High,Love my team
+EMP0679,,2.0,5.0,3.0,Medium,Average experience
+EMP0680,1.0,5.0,4.0,3.0,Medium,Work is okay
+EMP0681,2.0,3.0,2.0,3.0,Medium,Normal workplace
+EMP0682,1.0,4.0,3.0,2.0,Low,Too much workload
+EMP0683,2.0,2.0,4.0,3.0,Medium,Normal workplace
+EMP0684,4.0,3.0,5.0,3.0,Medium,Average experience
+EMP0685,5.0,5.0,2.0,5.0,High,Excellent culture
+EMP0686,2.0,3.0,5.0,3.0,Medium,Normal workplace
+EMP0687,4.0,5.0,3.0,4.0,High,Supportive manager
+EMP0688,,4.0,4.0,4.0,High,Excellent culture
+EMP0689,4.0,2.0,3.0,3.0,Medium,Average experience
+EMP0690,1.0,5.0,2.0,3.0,Medium,Normal workplace
+EMP0691,1.0,3.0,4.0,1.0,Low,No work life balance
+EMP0692,5.0,4.0,4.0,4.0,High,Great place to work
+EMP0693,3.0,4.0,4.0,3.0,Medium,Nothing special
+EMP0694,1.0,2.0,3.0,1.0,Low,Low career growth
+EMP0695,3.0,4.0,2.0,3.0,Medium,Average experience
+EMP0696,3.0,5.0,1.0,4.0,High,Supportive manager
+EMP0697,2.0,4.0,4.0,4.0,High,Excellent culture
+EMP0698,2.0,4.0,4.0,3.0,Medium,Nothing special
+EMP0699,5.0,5.0,2.0,4.0,High,Love my team
+EMP0700,4.0,4.0,3.0,4.0,High,Supportive manager
+EMP0701,4.0,4.0,3.0,4.0,High,Love my team
+EMP0702,2.0,3.0,1.0,3.0,Medium,Normal workplace
+EMP0703,2.0,4.0,2.0,3.0,Medium,Work is okay
+EMP0704,2.0,5.0,2.0,3.0,Medium,Normal workplace
+EMP0705,3.0,,3.0,3.0,Medium,Normal workplace
+EMP0706,3.0,5.0,2.0,3.0,Medium,Nothing special
+EMP0707,2.0,4.0,1.0,2.0,Low,Low career growth
+EMP0708,5.0,3.0,5.0,4.0,High,Supportive manager
+EMP0709,3.0,5.0,5.0,4.0,High,Happy with benefits
+EMP0710,4.0,4.0,2.0,4.0,High,Excellent culture
+EMP0711,3.0,5.0,4.0,4.0,High,Excellent culture
+EMP0712,5.0,4.0,4.0,4.0,High,Love my team
+EMP0713,4.0,4.0,5.0,4.0,High,Great place to work
+EMP0714,5.0,4.0,2.0,4.0,High,Excellent culture
+EMP0715,2.0,4.0,5.0,3.0,Medium,Nothing special
+EMP0716,3.0,2.0,3.0,2.0,Low,Poor management
+EMP0717,4.0,3.0,2.0,3.0,Medium,Nothing special
+EMP0718,4.0,5.0,4.0,5.0,High,Happy with benefits
+EMP0719,1.0,4.0,5.0,3.0,Medium,Normal workplace
+EMP0720,3.0,3.0,5.0,3.0,Medium,Nothing special
+EMP0721,4.0,2.0,2.0,3.0,Medium,Work is okay
+EMP0722,1.0,3.0,4.0,3.0,Medium,Average experience
+EMP0723,1.0,2.0,3.0,1.0,Low,Low career growth
+EMP0724,5.0,4.0,4.0,5.0,High,Excellent culture
+EMP0725,5.0,3.0,1.0,4.0,High,Love my team
+EMP0726,4.0,3.0,2.0,3.0,Medium,Nothing special
+EMP0727,2.0,4.0,2.0,2.0,Low,Poor management
+EMP0728,4.0,4.0,3.0,4.0,High,Excellent culture
+EMP0729,2.0,5.0,2.0,3.0,Medium,Work is okay
+EMP0730,2.0,2.0,4.0,1.0,Low,No work life balance
+EMP0731,4.0,5.0,4.0,4.0,High,Excellent culture
+EMP0732,4.0,5.0,4.0,4.0,High,Happy with benefits
+EMP0733,2.0,3.0,5.0,2.0,Low,No work life balance
+EMP0734,5.0,4.0,4.0,4.0,High,Happy with benefits
+EMP0735,4.0,3.0,2.0,3.0,Medium,Average experience
+EMP0736,3.0,4.0,5.0,5.0,High,Happy with benefits
+EMP0737,2.0,5.0,2.0,3.0,Medium,Could be better
+EMP0738,3.0,4.0,4.0,4.0,High,Great place to work
+EMP0739,5.0,4.0,5.0,5.0,High,Love my team
+EMP0740,1.0,3.0,4.0,3.0,Medium,Nothing special
+EMP0741,,2.0,1.0,3.0,Medium,Nothing special
+EMP0742,2.0,4.0,2.0,2.0,Low,Need better leadership
+EMP0743,2.0,5.0,5.0,4.0,High,Love my team
+EMP0744,,2.0,3.0,3.0,Medium,Nothing special
+EMP0745,2.0,3.0,3.0,3.0,Medium,Nothing special
+EMP0746,3.0,4.0,4.0,4.0,High,Supportive manager
+EMP0747,2.0,3.0,4.0,3.0,Medium,Average experience
+EMP0748,5.0,3.0,4.0,4.0,High,Great place to work
+EMP0749,4.0,3.0,3.0,4.0,High,Excellent culture
+EMP0750,3.0,2.0,3.0,3.0,Medium,Could be better
+EMP0751,2.0,3.0,4.0,2.0,Low,Low career growth
+EMP0752,2.0,5.0,4.0,3.0,Medium,Could be better
+EMP0753,5.0,2.0,3.0,4.0,High,Excellent culture
+EMP0754,2.0,2.0,4.0,2.0,Low,Need better leadership
+EMP0755,2.0,3.0,3.0,2.0,Low,No work life balance
+EMP0756,4.0,5.0,2.0,3.0,Medium,Nothing special
+EMP0757,5.0,4.0,2.0,5.0,High,Happy with benefits
+EMP0758,3.0,3.0,2.0,4.0,High,Happy with benefits
+EMP0759,2.0,4.0,3.0,3.0,Medium,Work is okay
+EMP0760,4.0,2.0,5.0,3.0,Medium,Nothing special
+EMP0761,2.0,4.0,2.0,2.0,Low,Need better leadership
+EMP0762,3.0,4.0,3.0,4.0,High,Excellent culture
+EMP0763,3.0,3.0,2.0,3.0,Medium,Work is okay
+EMP0764,4.0,5.0,3.0,5.0,High,Supportive manager
+EMP0765,2.0,3.0,1.0,2.0,Low,No work life balance
+EMP0766,3.0,5.0,3.0,5.0,High,Excellent culture
+EMP0767,5.0,4.0,3.0,4.0,High,Excellent culture
+EMP0768,5.0,3.0,4.0,3.0,Medium,Could be better
+EMP0769,,4.0,3.0,4.0,High,Great place to work
+EMP0770,3.0,4.0,2.0,2.0,Low,Poor management
+EMP0771,2.0,5.0,5.0,3.0,Medium,Work is okay
+EMP0772,4.0,3.0,3.0,3.0,Medium,Average experience
+EMP0773,1.0,3.0,3.0,2.0,Low,Need better leadership
+EMP0774,3.0,5.0,3.0,3.0,Medium,Could be better
+EMP0775,3.0,3.0,3.0,3.0,Medium,Could be better
+EMP0776,2.0,5.0,3.0,3.0,Medium,Could be better
+EMP0777,3.0,5.0,4.0,4.0,High,Supportive manager
+EMP0778,,3.0,1.0,3.0,Medium,Work is okay
+EMP0779,4.0,4.0,3.0,3.0,Medium,Normal workplace
+EMP0780,,3.0,3.0,2.0,Low,Need better leadership
+EMP0781,5.0,5.0,4.0,5.0,High,Happy with benefits
+EMP0782,4.0,4.0,5.0,3.0,Medium,Work is okay
+EMP0783,1.0,4.0,2.0,1.0,Low,Too much workload
+EMP0784,4.0,3.0,3.0,4.0,High,Love my team
+EMP0785,3.0,2.0,3.0,3.0,Medium,Work is okay
+EMP0786,3.0,4.0,2.0,4.0,High,Love my team
+EMP0787,4.0,2.0,3.0,3.0,Medium,Work is okay
+EMP0788,5.0,3.0,4.0,4.0,High,Love my team
+EMP0789,4.0,5.0,2.0,4.0,High,Excellent culture
+EMP0790,3.0,4.0,4.0,4.0,High,Great place to work
+EMP0791,1.0,5.0,1.0,3.0,Medium,Normal workplace
+EMP0792,5.0,5.0,3.0,4.0,High,Love my team
+EMP0793,3.0,3.0,3.0,3.0,Medium,Work is okay
+EMP0794,5.0,4.0,5.0,5.0,High,Great place to work
+EMP0795,1.0,4.0,3.0,3.0,Medium,Average experience
+EMP0796,5.0,2.0,1.0,4.0,High,Happy with benefits
+EMP0797,4.0,3.0,1.0,3.0,Medium,Work is okay
+EMP0798,3.0,3.0,3.0,3.0,Medium,Could be better
+EMP0799,3.0,2.0,4.0,3.0,Medium,Nothing special
+EMP0800,3.0,4.0,4.0,2.0,Low,Too much workload
+EMP0801,4.0,4.0,3.0,3.0,Medium,Average experience
+EMP0802,4.0,,5.0,3.0,Medium,Normal workplace
+EMP0803,3.0,4.0,3.0,4.0,High,Excellent culture
+EMP0804,,5.0,4.0,4.0,High,Supportive manager
+EMP0805,4.0,4.0,1.0,4.0,High,Supportive manager
+EMP0806,1.0,3.0,2.0,2.0,Low,Low career growth
+EMP0807,,,1.0,3.0,Medium,Work is okay
+EMP0808,3.0,4.0,3.0,4.0,High,Love my team
+EMP0809,2.0,4.0,3.0,3.0,Medium,Average experience
+EMP0810,2.0,3.0,3.0,3.0,Medium,Work is okay
+EMP0811,2.0,4.0,3.0,3.0,Medium,Nothing special
+EMP0812,2.0,5.0,2.0,4.0,High,Great place to work
+EMP0813,2.0,3.0,3.0,2.0,Low,Too much workload
+EMP0814,5.0,5.0,1.0,5.0,High,Supportive manager
+EMP0815,3.0,,5.0,3.0,Medium,Nothing special
+EMP0816,4.0,4.0,3.0,3.0,Medium,Average experience
+EMP0817,4.0,3.0,3.0,4.0,High,Happy with benefits
+EMP0818,1.0,4.0,5.0,3.0,Medium,Average experience
+EMP0819,2.0,2.0,2.0,2.0,Low,Poor management
+EMP0820,2.0,3.0,2.0,3.0,Medium,Could be better
+EMP0821,5.0,3.0,2.0,3.0,Medium,Normal workplace
+EMP0822,,4.0,3.0,3.0,Medium,Work is okay
+EMP0823,1.0,5.0,4.0,4.0,High,Great place to work
+EMP0824,1.0,4.0,4.0,4.0,High,Love my team
+EMP0825,3.0,1.0,5.0,3.0,Medium,Average experience
+EMP0826,3.0,5.0,1.0,3.0,Medium,Normal workplace
+EMP0827,3.0,4.0,4.0,4.0,High,Supportive manager
+EMP0828,4.0,3.0,3.0,3.0,Medium,Normal workplace
+EMP0829,5.0,4.0,2.0,4.0,High,Happy with benefits
+EMP0830,5.0,4.0,2.0,3.0,Medium,Normal workplace
+EMP0831,1.0,3.0,2.0,3.0,Medium,Could be better
+EMP0832,5.0,4.0,5.0,4.0,High,Happy with benefits
+EMP0833,4.0,3.0,4.0,4.0,High,Supportive manager
+EMP0834,3.0,3.0,3.0,3.0,Medium,Nothing special
+EMP0835,3.0,3.0,5.0,4.0,High,Supportive manager
+EMP0836,4.0,2.0,1.0,2.0,Low,No work life balance
+EMP0837,4.0,4.0,2.0,3.0,Medium,Normal workplace
+EMP0838,4.0,4.0,1.0,4.0,High,Supportive manager
+EMP0839,2.0,4.0,2.0,2.0,Low,No work life balance
+EMP0840,3.0,5.0,3.0,3.0,Medium,Normal workplace
+EMP0841,2.0,4.0,3.0,2.0,Low,Need better leadership
+EMP0842,3.0,3.0,3.0,2.0,Low,Too much workload
+EMP0843,1.0,5.0,2.0,3.0,Medium,Normal workplace
+EMP0844,2.0,2.0,4.0,1.0,Low,Too much workload
+EMP0845,2.0,3.0,3.0,2.0,Low,Poor management
+EMP0846,5.0,3.0,4.0,4.0,High,Love my team
+EMP0847,,5.0,1.0,4.0,High,Excellent culture
+EMP0848,3.0,5.0,4.0,5.0,High,Great place to work
+EMP0849,4.0,4.0,2.0,5.0,High,Love my team
+EMP0850,4.0,5.0,3.0,4.0,High,Love my team
+EMP0851,2.0,3.0,4.0,3.0,Medium,Could be better
+EMP0852,3.0,4.0,3.0,4.0,High,Happy with benefits
+EMP0853,2.0,4.0,2.0,3.0,Medium,Average experience
+EMP0854,1.0,5.0,3.0,2.0,Low,Poor management
+EMP0855,2.0,4.0,1.0,3.0,Medium,Average experience
+EMP0856,1.0,,5.0,3.0,Medium,Nothing special
+EMP0857,4.0,4.0,3.0,4.0,High,Supportive manager
+EMP0858,5.0,5.0,5.0,5.0,High,Happy with benefits
+EMP0859,3.0,,3.0,3.0,Medium,Nothing special
+EMP0860,2.0,4.0,3.0,2.0,Low,No work life balance
+EMP0861,5.0,3.0,2.0,4.0,High,Great place to work
+EMP0862,3.0,1.0,4.0,3.0,Medium,Could be better
+EMP0863,3.0,4.0,2.0,3.0,Medium,Work is okay
+EMP0864,3.0,4.0,4.0,4.0,High,Excellent culture
+EMP0865,4.0,4.0,3.0,3.0,Medium,Nothing special
+EMP0866,4.0,2.0,1.0,2.0,Low,Too much workload
+EMP0867,3.0,3.0,3.0,3.0,Medium,Could be better
+EMP0868,2.0,2.0,2.0,2.0,Low,No work life balance
+EMP0869,3.0,5.0,3.0,4.0,High,Happy with benefits
+EMP0870,3.0,3.0,2.0,4.0,High,Love my team
+EMP0871,4.0,5.0,4.0,4.0,High,Supportive manager
+EMP0872,3.0,5.0,3.0,5.0,High,Great place to work
+EMP0873,2.0,3.0,3.0,3.0,Medium,Normal workplace
+EMP0874,5.0,3.0,4.0,4.0,High,Love my team
+EMP0875,2.0,4.0,4.0,3.0,Medium,Could be better
+EMP0876,2.0,3.0,3.0,4.0,High,Excellent culture
+EMP0877,4.0,4.0,2.0,3.0,Medium,Could be better
+EMP0878,,3.0,1.0,3.0,Medium,Average experience
+EMP0879,3.0,2.0,2.0,2.0,Low,Too much workload
+EMP0880,1.0,2.0,2.0,2.0,Low,Poor management
+EMP0881,,4.0,3.0,3.0,Medium,Work is okay
+EMP0882,,3.0,3.0,3.0,Medium,Normal workplace
+EMP0883,1.0,3.0,4.0,3.0,Medium,Normal workplace
+EMP0884,4.0,4.0,2.0,4.0,High,Excellent culture
+EMP0885,4.0,5.0,3.0,4.0,High,Supportive manager
+EMP0886,3.0,4.0,5.0,3.0,Medium,Average experience
+EMP0887,2.0,3.0,4.0,3.0,Medium,Nothing special
+EMP0888,3.0,4.0,3.0,3.0,Medium,Work is okay
+EMP0889,,2.0,2.0,3.0,Medium,Nothing special
+EMP0890,1.0,,2.0,3.0,Medium,Work is okay
+EMP0891,4.0,4.0,2.0,4.0,High,Happy with benefits
+EMP0892,5.0,4.0,3.0,4.0,High,Happy with benefits
+EMP0893,4.0,2.0,4.0,4.0,High,Supportive manager
+EMP0894,2.0,3.0,3.0,3.0,Medium,Nothing special
+EMP0895,3.0,3.0,2.0,2.0,Low,Too much workload
+EMP0896,3.0,4.0,5.0,4.0,High,Happy with benefits
+EMP0897,3.0,4.0,4.0,3.0,Medium,Average experience
+EMP0898,3.0,5.0,2.0,4.0,High,Supportive manager
+EMP0899,4.0,3.0,3.0,4.0,High,Excellent culture
+EMP0900,3.0,3.0,3.0,2.0,Low,Need better leadership
+EMP0901,2.0,,5.0,4.0,High,Excellent culture
+EMP0902,2.0,4.0,2.0,2.0,Low,Too much workload
+EMP0903,3.0,5.0,4.0,4.0,High,Great place to work
+EMP0904,5.0,4.0,5.0,5.0,High,Love my team
+EMP0905,5.0,3.0,2.0,3.0,Medium,Normal workplace
+EMP0906,3.0,2.0,3.0,2.0,Low,Need better leadership
+EMP0907,4.0,2.0,2.0,2.0,Low,Too much workload
+EMP0908,1.0,4.0,3.0,3.0,Medium,Work is okay
+EMP0909,4.0,5.0,3.0,4.0,High,Happy with benefits
+EMP0910,3.0,5.0,4.0,4.0,High,Great place to work
+EMP0911,4.0,5.0,5.0,5.0,High,Love my team
+EMP0912,4.0,5.0,2.0,4.0,High,Supportive manager
+EMP0913,4.0,3.0,1.0,3.0,Medium,Normal workplace
+EMP0914,2.0,3.0,3.0,2.0,Low,Low career growth
+EMP0915,3.0,5.0,4.0,5.0,High,Excellent culture
+EMP0916,4.0,,3.0,3.0,Medium,Could be better
+EMP0917,1.0,4.0,3.0,3.0,Medium,Normal workplace
+EMP0918,3.0,4.0,3.0,4.0,High,Supportive manager
+EMP0919,3.0,4.0,5.0,5.0,High,Supportive manager
+EMP0920,4.0,5.0,4.0,4.0,High,Great place to work
+EMP0921,4.0,5.0,3.0,4.0,High,Supportive manager
+EMP0922,2.0,4.0,3.0,3.0,Medium,Work is okay
+EMP0923,3.0,5.0,3.0,4.0,High,Supportive manager
+EMP0924,2.0,4.0,5.0,3.0,Medium,Work is okay
+EMP0925,4.0,3.0,3.0,3.0,Medium,Work is okay
+EMP0926,5.0,5.0,3.0,5.0,High,Great place to work
+EMP0927,1.0,2.0,3.0,1.0,Low,Poor management
+EMP0928,5.0,,5.0,5.0,High,Excellent culture
+EMP0929,3.0,3.0,5.0,3.0,Medium,Nothing special
+EMP0930,,4.0,4.0,4.0,High,Supportive manager
+EMP0931,3.0,3.0,3.0,3.0,Medium,Work is okay
+EMP0932,3.0,4.0,3.0,3.0,Medium,Nothing special
+EMP0933,,4.0,1.0,3.0,Medium,Normal workplace
+EMP0934,3.0,2.0,4.0,2.0,Low,Too much workload
+EMP0935,1.0,4.0,3.0,2.0,Low,Low career growth
+EMP0936,3.0,3.0,4.0,3.0,Medium,Average experience
+EMP0937,3.0,5.0,2.0,3.0,Medium,Work is okay
+EMP0938,2.0,4.0,3.0,2.0,Low,No work life balance
+EMP0939,2.0,4.0,3.0,4.0,High,Excellent culture
+EMP0940,3.0,3.0,4.0,3.0,Medium,Average experience
+EMP0941,4.0,3.0,3.0,4.0,High,Supportive manager
+EMP0942,3.0,3.0,5.0,4.0,High,Happy with benefits
+EMP0943,4.0,5.0,4.0,4.0,High,Great place to work
+EMP0944,5.0,5.0,2.0,4.0,High,Happy with benefits
+EMP0945,1.0,3.0,3.0,3.0,Medium,Nothing special
+EMP0946,1.0,5.0,2.0,4.0,High,Supportive manager
+EMP0947,3.0,2.0,1.0,2.0,Low,Too much workload
+EMP0948,3.0,3.0,5.0,4.0,High,Love my team
+EMP0949,5.0,3.0,4.0,4.0,High,Happy with benefits
+EMP0950,3.0,2.0,4.0,3.0,Medium,Work is okay
+EMP0951,4.0,2.0,3.0,3.0,Medium,Normal workplace
+EMP0952,4.0,4.0,2.0,3.0,Medium,Nothing special
+EMP0953,3.0,4.0,3.0,3.0,Medium,Nothing special
+EMP0954,2.0,4.0,4.0,3.0,Medium,Average experience
+EMP0955,4.0,4.0,2.0,3.0,Medium,Could be better
+EMP0956,2.0,4.0,1.0,3.0,Medium,Work is okay
+EMP0957,4.0,4.0,3.0,3.0,Medium,Normal workplace
+EMP0958,3.0,4.0,3.0,3.0,Medium,Could be better
+EMP0959,3.0,3.0,3.0,3.0,Medium,Work is okay
+EMP0960,3.0,5.0,4.0,4.0,High,Supportive manager
+EMP0961,3.0,3.0,4.0,3.0,Medium,Nothing special
+EMP0962,2.0,3.0,4.0,3.0,Medium,Average experience
+EMP0963,2.0,4.0,5.0,4.0,High,Great place to work
+EMP0964,3.0,3.0,1.0,3.0,Medium,Normal workplace
+EMP0965,2.0,3.0,4.0,3.0,Medium,Could be better
+EMP0966,5.0,4.0,4.0,4.0,High,Love my team
+EMP0967,5.0,,2.0,3.0,Medium,Work is okay
+EMP0968,2.0,3.0,1.0,2.0,Low,Need better leadership
+EMP0969,4.0,3.0,2.0,4.0,High,Great place to work
+EMP0970,1.0,5.0,2.0,3.0,Medium,Normal workplace
+EMP0971,3.0,4.0,4.0,4.0,High,Supportive manager
+EMP0972,5.0,5.0,2.0,4.0,High,Great place to work
+EMP0973,3.0,5.0,2.0,4.0,High,Love my team
+EMP0974,5.0,5.0,2.0,3.0,Medium,Average experience
+EMP0975,3.0,2.0,5.0,3.0,Medium,Nothing special
+EMP0976,,5.0,3.0,3.0,Medium,Average experience
+EMP0977,2.0,4.0,3.0,3.0,Medium,Could be better
+EMP0978,4.0,3.0,3.0,3.0,Medium,Nothing special
+EMP0979,5.0,4.0,5.0,5.0,High,Excellent culture
+EMP0980,5.0,5.0,2.0,4.0,High,Happy with benefits
+EMP0981,3.0,4.0,5.0,3.0,Medium,Work is okay
+EMP0982,2.0,3.0,3.0,2.0,Low,Low career growth
+EMP0983,3.0,5.0,3.0,3.0,Medium,Nothing special
+EMP0984,4.0,3.0,5.0,4.0,High,Supportive manager
+EMP0985,4.0,4.0,2.0,5.0,High,Love my team
+EMP0986,3.0,3.0,3.0,4.0,High,Supportive manager
+EMP0987,3.0,4.0,2.0,3.0,Medium,Normal workplace
+EMP0988,3.0,5.0,4.0,5.0,High,Love my team
+EMP0989,3.0,3.0,5.0,4.0,High,Supportive manager
+EMP0990,5.0,5.0,5.0,5.0,High,Love my team
+EMP0991,4.0,2.0,5.0,3.0,Medium,Normal workplace
+EMP0992,2.0,3.0,3.0,3.0,Medium,Normal workplace
+EMP0993,2.0,4.0,3.0,3.0,Medium,Could be better
+EMP0994,4.0,4.0,1.0,3.0,Medium,Average experience
+EMP0995,3.0,4.0,5.0,4.0,High,Excellent culture
+EMP0996,3.0,4.0,4.0,4.0,High,Supportive manager
+EMP0997,2.0,4.0,3.0,3.0,Medium,Work is okay
+EMP0998,3.0,4.0,5.0,3.0,Medium,Normal workplace
+EMP0999,3.0,5.0,2.0,4.0,High,Excellent culture
+EMP1000,2.0,5.0,4.0,5.0,High,Great place to work

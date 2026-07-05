@@ -1,0 +1,1001 @@
+employee_id,department,role,tenure_years
+EMP0001,Engineering,Individual Contributor,1.4
+EMP0002,HR,Individual Contributor,1.5
+EMP0003,Marketing,Manager,3.3
+EMP0004,Sales,Individual Contributor,5.1
+EMP0005,Engineering,Manager,6.7
+EMP0006,Engineering,Individual Contributor,1.6
+EMP0007,Engineering,Individual Contributor,8.5
+EMP0008,Finance,Manager,3.2
+EMP0009,Sales,Individual Contributor,3.9
+EMP0010,Marketing,Individual Contributor,1.8
+EMP0011,Engineering,Individual Contributor,0.5
+EMP0012,HR,Director,6.7
+EMP0013,Finance,Manager,6.2
+EMP0014,Engineering,Individual Contributor,3.2
+EMP0015,Engineering,Individual Contributor,4.2
+EMP0016,Engineering,Manager,5.5
+EMP0017,Engineering,Individual Contributor,0.5
+EMP0018,Sales,Individual Contributor,2.4
+EMP0019,Sales,Manager,6.4
+EMP0020,Engineering,Individual Contributor,0.5
+EMP0021,Sales,Individual Contributor,4.9
+EMP0022,Engineering,Individual Contributor,0.5
+EMP0023,Engineering,Manager,5.4
+EMP0024,Engineering,Director,3.9
+EMP0025,Sales,Manager,0.5
+EMP0026,Marketing,Individual Contributor,7.5
+EMP0027,Engineering,Manager,1.8
+EMP0028,Sales,Manager,1.6
+EMP0029,Sales,Individual Contributor,4.6
+EMP0030,Engineering,Manager,7.4
+EMP0031,Sales,Individual Contributor,1.0
+EMP0032,Engineering,Individual Contributor,4.2
+EMP0033,Engineering,Individual Contributor,5.3
+EMP0034,HR,Individual Contributor,6.1
+EMP0035,HR,Individual Contributor,4.5
+EMP0036,Finance,Individual Contributor,2.9
+EMP0037,Engineering,Individual Contributor,1.5
+EMP0038,Engineering,Individual Contributor,4.3
+EMP0039,Marketing,Individual Contributor,0.8
+EMP0040,Sales,Individual Contributor,0.5
+EMP0041,Engineering,Individual Contributor,5.3
+EMP0042,Sales,Manager,6.7
+EMP0043,Engineering,Individual Contributor,0.5
+EMP0044,HR,Individual Contributor,1.0
+EMP0045,Engineering,Manager,5.9
+EMP0046,Marketing,Individual Contributor,10.2
+EMP0047,Engineering,Individual Contributor,4.1
+EMP0048,Sales,Individual Contributor,1.8
+EMP0049,Sales,Manager,3.5
+EMP0050,Engineering,Individual Contributor,8.1
+EMP0051,HR,Manager,2.1
+EMP0052,Marketing,Individual Contributor,1.6
+EMP0053,HR,Manager,2.6
+EMP0054,Finance,Manager,1.1
+EMP0055,Sales,Director,4.4
+EMP0056,HR,Individual Contributor,8.9
+EMP0057,Engineering,Manager,5.0
+EMP0058,Engineering,Individual Contributor,3.2
+EMP0059,Engineering,Individual Contributor,3.1
+EMP0060,Engineering,Individual Contributor,0.5
+EMP0061,Engineering,Manager,6.6
+EMP0062,Engineering,Director,3.8
+EMP0063,Finance,Manager,3.5
+EMP0064,Engineering,Individual Contributor,13.6
+EMP0065,Engineering,Individual Contributor,4.9
+EMP0066,Sales,Individual Contributor,1.7
+EMP0067,Engineering,Individual Contributor,2.7
+EMP0068,Finance,Individual Contributor,7.4
+EMP0069,Engineering,Individual Contributor,4.3
+EMP0070,HR,Individual Contributor,0.5
+EMP0071,Marketing,Individual Contributor,6.8
+EMP0072,Engineering,Individual Contributor,2.0
+EMP0073,Engineering,Individual Contributor,9.6
+EMP0074,Finance,Individual Contributor,7.2
+EMP0075,Marketing,Director,2.7
+EMP0076,Marketing,Individual Contributor,7.8
+EMP0077,Marketing,Individual Contributor,4.2
+EMP0078,Engineering,Individual Contributor,6.6
+EMP0079,Engineering,Individual Contributor,5.5
+EMP0080,Engineering,Manager,1.5
+EMP0081,Finance,Manager,2.1
+EMP0082,Sales,Individual Contributor,7.1
+EMP0083,Engineering,Individual Contributor,3.0
+EMP0084,Engineering,Manager,2.8
+EMP0085,Engineering,Manager,1.1
+EMP0086,Engineering,Individual Contributor,5.3
+EMP0087,Marketing,Individual Contributor,10.2
+EMP0088,Sales,Individual Contributor,0.8
+EMP0089,Finance,Director,4.1
+EMP0090,Sales,Individual Contributor,8.2
+EMP0091,Engineering,Manager,3.8
+EMP0092,Marketing,Individual Contributor,5.4
+EMP0093,Marketing,Individual Contributor,0.8
+EMP0094,Sales,Individual Contributor,5.3
+EMP0095,Marketing,Individual Contributor,3.4
+EMP0096,Sales,Individual Contributor,7.0
+EMP0097,Sales,Individual Contributor,7.6
+EMP0098,Sales,Individual Contributor,11.8
+EMP0099,Engineering,Manager,5.7
+EMP0100,Engineering,Individual Contributor,5.0
+EMP0101,Engineering,Individual Contributor,4.6
+EMP0102,Sales,Director,2.9
+EMP0103,Engineering,Manager,5.0
+EMP0104,Sales,Manager,3.1
+EMP0105,HR,Director,4.5
+EMP0106,Engineering,Individual Contributor,8.0
+EMP0107,Sales,Individual Contributor,1.0
+EMP0108,Marketing,Manager,7.4
+EMP0109,Engineering,Individual Contributor,8.0
+EMP0110,Engineering,Individual Contributor,3.6
+EMP0111,Engineering,Manager,0.5
+EMP0112,Engineering,Individual Contributor,2.2
+EMP0113,HR,Individual Contributor,7.9
+EMP0114,Finance,Individual Contributor,3.9
+EMP0115,Sales,Individual Contributor,1.0
+EMP0116,Finance,Individual Contributor,2.5
+EMP0117,Finance,Individual Contributor,6.5
+EMP0118,Engineering,Manager,5.6
+EMP0119,Finance,Individual Contributor,3.3
+EMP0120,Sales,Individual Contributor,2.9
+EMP0121,Finance,Manager,2.8
+EMP0122,Finance,Director,1.2
+EMP0123,Engineering,Manager,8.8
+EMP0124,Engineering,Manager,3.0
+EMP0125,Engineering,Individual Contributor,7.7
+EMP0126,Sales,Individual Contributor,8.6
+EMP0127,Finance,Individual Contributor,7.0
+EMP0128,Finance,Individual Contributor,2.7
+EMP0129,Engineering,Individual Contributor,5.2
+EMP0130,Sales,Individual Contributor,3.9
+EMP0131,Sales,Individual Contributor,1.3
+EMP0132,Engineering,Individual Contributor,5.0
+EMP0133,Engineering,Individual Contributor,0.5
+EMP0134,Engineering,Individual Contributor,7.6
+EMP0135,HR,Individual Contributor,2.6
+EMP0136,Engineering,Individual Contributor,4.6
+EMP0137,Sales,Manager,4.8
+EMP0138,Marketing,Individual Contributor,3.2
+EMP0139,Engineering,Individual Contributor,5.8
+EMP0140,HR,Individual Contributor,2.6
+EMP0141,HR,Manager,6.6
+EMP0142,Engineering,Individual Contributor,0.5
+EMP0143,Sales,Individual Contributor,4.4
+EMP0144,Engineering,Individual Contributor,9.8
+EMP0145,Engineering,Individual Contributor,1.0
+EMP0146,Engineering,Manager,2.0
+EMP0147,Sales,Manager,5.5
+EMP0148,Sales,Individual Contributor,4.5
+EMP0149,Engineering,Manager,5.1
+EMP0150,Engineering,Manager,5.5
+EMP0151,HR,Individual Contributor,5.9
+EMP0152,Engineering,Manager,7.3
+EMP0153,Engineering,Individual Contributor,5.2
+EMP0154,Sales,Individual Contributor,3.3
+EMP0155,HR,Individual Contributor,6.0
+EMP0156,Engineering,Manager,9.7
+EMP0157,Marketing,Individual Contributor,3.6
+EMP0158,Marketing,Manager,1.1
+EMP0159,Engineering,Manager,7.3
+EMP0160,Marketing,Individual Contributor,3.6
+EMP0161,Engineering,Manager,0.5
+EMP0162,Sales,Individual Contributor,6.5
+EMP0163,Sales,Individual Contributor,2.4
+EMP0164,Sales,Individual Contributor,3.7
+EMP0165,Engineering,Individual Contributor,5.0
+EMP0166,Finance,Manager,4.6
+EMP0167,Engineering,Manager,6.1
+EMP0168,Engineering,Individual Contributor,2.7
+EMP0169,Engineering,Individual Contributor,5.5
+EMP0170,Sales,Individual Contributor,3.2
+EMP0171,Marketing,Individual Contributor,6.2
+EMP0172,Engineering,Director,5.8
+EMP0173,Sales,Individual Contributor,1.2
+EMP0174,Engineering,Individual Contributor,7.3
+EMP0175,Sales,Individual Contributor,2.4
+EMP0176,Engineering,Individual Contributor,6.4
+EMP0177,Marketing,Manager,5.1
+EMP0178,Engineering,Individual Contributor,9.5
+EMP0179,HR,Manager,3.3
+EMP0180,Engineering,Individual Contributor,3.0
+EMP0181,Engineering,Director,3.9
+EMP0182,Engineering,Individual Contributor,3.1
+EMP0183,HR,Individual Contributor,6.4
+EMP0184,Finance,Manager,0.5
+EMP0185,Engineering,Individual Contributor,0.8
+EMP0186,Marketing,Manager,0.8
+EMP0187,Finance,Individual Contributor,6.9
+EMP0188,Sales,Individual Contributor,9.1
+EMP0189,Sales,Individual Contributor,3.7
+EMP0190,Engineering,Individual Contributor,3.5
+EMP0191,Engineering,Individual Contributor,4.2
+EMP0192,Finance,Individual Contributor,7.5
+EMP0193,HR,Individual Contributor,1.2
+EMP0194,Sales,Individual Contributor,4.7
+EMP0195,Engineering,Individual Contributor,6.9
+EMP0196,Engineering,Manager,5.5
+EMP0197,Marketing,Director,4.6
+EMP0198,Finance,Director,7.0
+EMP0199,Finance,Individual Contributor,0.5
+EMP0200,Marketing,Individual Contributor,6.0
+EMP0201,Sales,Manager,2.0
+EMP0202,Engineering,Individual Contributor,0.5
+EMP0203,Engineering,Individual Contributor,5.5
+EMP0204,Finance,Individual Contributor,8.1
+EMP0205,Sales,Individual Contributor,3.6
+EMP0206,Engineering,Manager,6.9
+EMP0207,Engineering,Individual Contributor,8.8
+EMP0208,Marketing,Individual Contributor,7.9
+EMP0209,Engineering,Individual Contributor,8.9
+EMP0210,Engineering,Director,6.2
+EMP0211,Sales,Individual Contributor,4.2
+EMP0212,Marketing,Individual Contributor,0.5
+EMP0213,Marketing,Individual Contributor,3.3
+EMP0214,Engineering,Manager,1.5
+EMP0215,Marketing,Individual Contributor,10.5
+EMP0216,Engineering,Individual Contributor,3.5
+EMP0217,Engineering,Individual Contributor,4.4
+EMP0218,Marketing,Individual Contributor,5.7
+EMP0219,Sales,Individual Contributor,4.1
+EMP0220,Finance,Individual Contributor,9.1
+EMP0221,Marketing,Director,2.1
+EMP0222,Sales,Individual Contributor,4.6
+EMP0223,Engineering,Individual Contributor,1.8
+EMP0224,Engineering,Manager,0.5
+EMP0225,Engineering,Individual Contributor,2.2
+EMP0226,Engineering,Individual Contributor,3.9
+EMP0227,HR,Individual Contributor,2.7
+EMP0228,Engineering,Individual Contributor,1.9
+EMP0229,Finance,Director,0.5
+EMP0230,Sales,Individual Contributor,3.8
+EMP0231,Marketing,Manager,0.5
+EMP0232,Sales,Individual Contributor,6.3
+EMP0233,Sales,Individual Contributor,4.2
+EMP0234,Sales,Individual Contributor,0.5
+EMP0235,Engineering,Individual Contributor,3.1
+EMP0236,Marketing,Individual Contributor,1.7
+EMP0237,Engineering,Manager,5.0
+EMP0238,Engineering,Individual Contributor,8.0
+EMP0239,Sales,Director,0.5
+EMP0240,Engineering,Individual Contributor,4.3
+EMP0241,HR,Manager,3.5
+EMP0242,HR,Manager,6.0
+EMP0243,HR,Manager,4.6
+EMP0244,Engineering,Manager,1.7
+EMP0245,Engineering,Manager,3.0
+EMP0246,HR,Individual Contributor,1.6
+EMP0247,Sales,Individual Contributor,7.2
+EMP0248,HR,Individual Contributor,4.1
+EMP0249,HR,Manager,9.7
+EMP0250,Finance,Individual Contributor,3.8
+EMP0251,Engineering,Manager,1.9
+EMP0252,Engineering,Individual Contributor,0.5
+EMP0253,Finance,Individual Contributor,0.5
+EMP0254,Engineering,Individual Contributor,0.5
+EMP0255,Engineering,Individual Contributor,4.8
+EMP0256,Sales,Individual Contributor,5.5
+EMP0257,HR,Individual Contributor,0.5
+EMP0258,Marketing,Individual Contributor,6.7
+EMP0259,Sales,Individual Contributor,2.6
+EMP0260,Engineering,Individual Contributor,4.4
+EMP0261,Sales,Individual Contributor,8.8
+EMP0262,HR,Manager,6.7
+EMP0263,Engineering,Individual Contributor,3.2
+EMP0264,Sales,Individual Contributor,1.3
+EMP0265,Finance,Individual Contributor,0.5
+EMP0266,Marketing,Individual Contributor,1.8
+EMP0267,Marketing,Individual Contributor,3.4
+EMP0268,Marketing,Individual Contributor,1.0
+EMP0269,Engineering,Individual Contributor,3.6
+EMP0270,Engineering,Individual Contributor,4.2
+EMP0271,Finance,Individual Contributor,3.3
+EMP0272,Finance,Manager,2.0
+EMP0273,Finance,Manager,4.5
+EMP0274,HR,Individual Contributor,5.3
+EMP0275,Sales,Individual Contributor,0.7
+EMP0276,Sales,Individual Contributor,8.2
+EMP0277,Marketing,Individual Contributor,3.7
+EMP0278,Sales,Director,4.1
+EMP0279,Marketing,Individual Contributor,6.1
+EMP0280,Marketing,Individual Contributor,4.7
+EMP0281,Finance,Individual Contributor,6.9
+EMP0282,Engineering,Individual Contributor,4.9
+EMP0283,Engineering,Individual Contributor,2.2
+EMP0284,Engineering,Individual Contributor,5.1
+EMP0285,Sales,Individual Contributor,0.6
+EMP0286,Engineering,Individual Contributor,4.3
+EMP0287,Sales,Individual Contributor,3.9
+EMP0288,Sales,Individual Contributor,3.4
+EMP0289,Engineering,Individual Contributor,3.6
+EMP0290,Sales,Individual Contributor,0.5
+EMP0291,Engineering,Individual Contributor,2.4
+EMP0292,Engineering,Individual Contributor,4.3
+EMP0293,Finance,Individual Contributor,4.5
+EMP0294,Engineering,Individual Contributor,0.9
+EMP0295,Engineering,Manager,7.8
+EMP0296,Sales,Individual Contributor,1.4
+EMP0297,Marketing,Individual Contributor,6.9
+EMP0298,Engineering,Individual Contributor,5.3
+EMP0299,Sales,Individual Contributor,2.1
+EMP0300,Engineering,Individual Contributor,9.3
+EMP0301,Engineering,Individual Contributor,0.5
+EMP0302,Sales,Manager,6.8
+EMP0303,Sales,Individual Contributor,7.0
+EMP0304,Sales,Individual Contributor,2.0
+EMP0305,Marketing,Individual Contributor,8.2
+EMP0306,HR,Manager,3.2
+EMP0307,Sales,Individual Contributor,4.9
+EMP0308,Engineering,Manager,4.8
+EMP0309,Marketing,Individual Contributor,3.6
+EMP0310,Engineering,Manager,6.4
+EMP0311,Sales,Individual Contributor,6.4
+EMP0312,Engineering,Manager,0.5
+EMP0313,Engineering,Individual Contributor,7.9
+EMP0314,HR,Manager,0.5
+EMP0315,Finance,Individual Contributor,7.1
+EMP0316,Marketing,Individual Contributor,7.4
+EMP0317,Sales,Individual Contributor,0.7
+EMP0318,Engineering,Individual Contributor,2.8
+EMP0319,Engineering,Individual Contributor,0.7
+EMP0320,Engineering,Individual Contributor,3.4
+EMP0321,Sales,Individual Contributor,3.1
+EMP0322,Marketing,Individual Contributor,6.3
+EMP0323,Marketing,Manager,7.9
+EMP0324,Engineering,Individual Contributor,8.2
+EMP0325,HR,Director,2.3
+EMP0326,Marketing,Individual Contributor,3.4
+EMP0327,Sales,Individual Contributor,0.5
+EMP0328,Sales,Manager,1.6
+EMP0329,Sales,Individual Contributor,6.9
+EMP0330,Engineering,Individual Contributor,8.8
+EMP0331,Engineering,Individual Contributor,0.5
+EMP0332,Marketing,Individual Contributor,2.2
+EMP0333,Engineering,Individual Contributor,3.9
+EMP0334,Engineering,Director,4.8
+EMP0335,Engineering,Director,1.6
+EMP0336,Engineering,Individual Contributor,5.3
+EMP0337,Finance,Individual Contributor,2.6
+EMP0338,Marketing,Individual Contributor,4.0
+EMP0339,Sales,Individual Contributor,5.6
+EMP0340,Engineering,Individual Contributor,4.0
+EMP0341,Sales,Individual Contributor,2.7
+EMP0342,Sales,Individual Contributor,3.7
+EMP0343,Engineering,Manager,3.7
+EMP0344,Sales,Individual Contributor,2.9
+EMP0345,Engineering,Individual Contributor,3.2
+EMP0346,Sales,Individual Contributor,8.8
+EMP0347,Sales,Individual Contributor,5.7
+EMP0348,Engineering,Individual Contributor,3.1
+EMP0349,Engineering,Director,6.1
+EMP0350,Sales,Individual Contributor,3.0
+EMP0351,Sales,Manager,7.5
+EMP0352,Finance,Individual Contributor,5.1
+EMP0353,Marketing,Individual Contributor,3.7
+EMP0354,Engineering,Individual Contributor,5.3
+EMP0355,Engineering,Individual Contributor,0.5
+EMP0356,Sales,Manager,0.6
+EMP0357,Engineering,Manager,0.5
+EMP0358,Sales,Individual Contributor,4.4
+EMP0359,HR,Individual Contributor,9.2
+EMP0360,Sales,Individual Contributor,10.7
+EMP0361,Engineering,Manager,5.9
+EMP0362,Sales,Individual Contributor,5.5
+EMP0363,Sales,Individual Contributor,0.5
+EMP0364,Sales,Individual Contributor,2.4
+EMP0365,HR,Individual Contributor,1.6
+EMP0366,Engineering,Individual Contributor,2.1
+EMP0367,HR,Individual Contributor,3.5
+EMP0368,HR,Manager,2.6
+EMP0369,Engineering,Individual Contributor,0.5
+EMP0370,Engineering,Individual Contributor,6.2
+EMP0371,Engineering,Director,0.8
+EMP0372,Engineering,Individual Contributor,4.7
+EMP0373,Engineering,Manager,10.2
+EMP0374,Marketing,Individual Contributor,1.2
+EMP0375,Engineering,Individual Contributor,0.5
+EMP0376,Engineering,Manager,3.1
+EMP0377,Finance,Individual Contributor,7.3
+EMP0378,Engineering,Individual Contributor,9.9
+EMP0379,Finance,Individual Contributor,0.5
+EMP0380,Engineering,Individual Contributor,5.5
+EMP0381,Engineering,Individual Contributor,2.6
+EMP0382,Marketing,Individual Contributor,3.7
+EMP0383,Sales,Director,11.9
+EMP0384,Finance,Individual Contributor,0.5
+EMP0385,Marketing,Individual Contributor,4.8
+EMP0386,Finance,Individual Contributor,5.4
+EMP0387,Engineering,Manager,7.3
+EMP0388,Engineering,Individual Contributor,4.3
+EMP0389,Marketing,Director,4.9
+EMP0390,Finance,Individual Contributor,2.8
+EMP0391,HR,Individual Contributor,4.8
+EMP0392,Sales,Individual Contributor,3.0
+EMP0393,Engineering,Individual Contributor,5.9
+EMP0394,Marketing,Individual Contributor,2.9
+EMP0395,Engineering,Individual Contributor,5.1
+EMP0396,HR,Manager,3.9
+EMP0397,Finance,Individual Contributor,7.4
+EMP0398,Sales,Individual Contributor,3.8
+EMP0399,Marketing,Individual Contributor,0.5
+EMP0400,Marketing,Individual Contributor,7.8
+EMP0401,Engineering,Individual Contributor,1.3
+EMP0402,HR,Individual Contributor,2.0
+EMP0403,Sales,Individual Contributor,2.2
+EMP0404,Finance,Individual Contributor,8.1
+EMP0405,Engineering,Individual Contributor,0.5
+EMP0406,Finance,Individual Contributor,13.4
+EMP0407,Engineering,Manager,7.2
+EMP0408,Engineering,Manager,4.7
+EMP0409,HR,Individual Contributor,3.8
+EMP0410,Engineering,Manager,4.9
+EMP0411,Engineering,Individual Contributor,5.6
+EMP0412,HR,Individual Contributor,5.9
+EMP0413,HR,Individual Contributor,5.7
+EMP0414,Sales,Individual Contributor,4.3
+EMP0415,Sales,Individual Contributor,3.4
+EMP0416,Sales,Manager,3.5
+EMP0417,Engineering,Individual Contributor,3.4
+EMP0418,Engineering,Individual Contributor,7.4
+EMP0419,Marketing,Individual Contributor,5.8
+EMP0420,Marketing,Manager,0.5
+EMP0421,Marketing,Individual Contributor,6.0
+EMP0422,Marketing,Individual Contributor,4.6
+EMP0423,Engineering,Individual Contributor,3.9
+EMP0424,Sales,Individual Contributor,2.8
+EMP0425,Engineering,Director,7.4
+EMP0426,Sales,Director,6.8
+EMP0427,Sales,Individual Contributor,1.7
+EMP0428,Finance,Director,5.2
+EMP0429,Engineering,Individual Contributor,1.1
+EMP0430,Engineering,Manager,0.5
+EMP0431,Engineering,Individual Contributor,2.1
+EMP0432,Marketing,Individual Contributor,6.6
+EMP0433,Sales,Individual Contributor,6.9
+EMP0434,Engineering,Individual Contributor,5.5
+EMP0435,Engineering,Individual Contributor,6.2
+EMP0436,Marketing,Individual Contributor,5.5
+EMP0437,Engineering,Individual Contributor,2.1
+EMP0438,Finance,Individual Contributor,5.3
+EMP0439,Marketing,Individual Contributor,6.4
+EMP0440,Engineering,Individual Contributor,6.3
+EMP0441,Engineering,Director,7.6
+EMP0442,HR,Individual Contributor,6.1
+EMP0443,Engineering,Individual Contributor,5.1
+EMP0444,Engineering,Individual Contributor,7.2
+EMP0445,Finance,Manager,3.9
+EMP0446,HR,Individual Contributor,1.4
+EMP0447,HR,Individual Contributor,3.5
+EMP0448,Marketing,Manager,1.8
+EMP0449,Engineering,Manager,2.0
+EMP0450,Engineering,Individual Contributor,3.6
+EMP0451,Marketing,Individual Contributor,1.6
+EMP0452,Sales,Individual Contributor,3.1
+EMP0453,Sales,Manager,0.5
+EMP0454,HR,Individual Contributor,4.6
+EMP0455,Engineering,Individual Contributor,4.0
+EMP0456,Sales,Manager,1.5
+EMP0457,Engineering,Individual Contributor,6.0
+EMP0458,Sales,Individual Contributor,6.8
+EMP0459,Engineering,Individual Contributor,0.5
+EMP0460,Engineering,Individual Contributor,1.7
+EMP0461,Engineering,Individual Contributor,1.7
+EMP0462,Sales,Individual Contributor,1.2
+EMP0463,Marketing,Individual Contributor,6.5
+EMP0464,Sales,Individual Contributor,3.4
+EMP0465,HR,Director,3.2
+EMP0466,Engineering,Individual Contributor,0.5
+EMP0467,Engineering,Director,5.9
+EMP0468,Finance,Individual Contributor,0.5
+EMP0469,Engineering,Manager,4.2
+EMP0470,HR,Manager,4.8
+EMP0471,Engineering,Individual Contributor,8.1
+EMP0472,HR,Individual Contributor,0.5
+EMP0473,Engineering,Manager,0.5
+EMP0474,Finance,Individual Contributor,4.6
+EMP0475,Sales,Individual Contributor,9.4
+EMP0476,HR,Individual Contributor,7.7
+EMP0477,Engineering,Manager,4.6
+EMP0478,Sales,Manager,2.5
+EMP0479,HR,Manager,6.4
+EMP0480,Sales,Individual Contributor,1.1
+EMP0481,Sales,Manager,5.4
+EMP0482,Marketing,Individual Contributor,5.5
+EMP0483,Sales,Individual Contributor,7.2
+EMP0484,Sales,Individual Contributor,12.3
+EMP0485,Sales,Individual Contributor,5.2
+EMP0486,HR,Individual Contributor,2.5
+EMP0487,Engineering,Individual Contributor,3.9
+EMP0488,Engineering,Individual Contributor,0.5
+EMP0489,HR,Individual Contributor,1.9
+EMP0490,Finance,Individual Contributor,2.8
+EMP0491,Sales,Individual Contributor,2.4
+EMP0492,Sales,Individual Contributor,4.5
+EMP0493,Engineering,Individual Contributor,1.5
+EMP0494,Engineering,Individual Contributor,7.4
+EMP0495,Sales,Individual Contributor,4.0
+EMP0496,Engineering,Individual Contributor,4.0
+EMP0497,Sales,Individual Contributor,3.0
+EMP0498,Engineering,Individual Contributor,4.5
+EMP0499,HR,Individual Contributor,6.5
+EMP0500,HR,Manager,1.4
+EMP0501,Marketing,Individual Contributor,2.0
+EMP0502,Sales,Individual Contributor,3.1
+EMP0503,Engineering,Individual Contributor,0.5
+EMP0504,Finance,Individual Contributor,1.5
+EMP0505,Marketing,Individual Contributor,2.6
+EMP0506,Engineering,Individual Contributor,6.6
+EMP0507,HR,Individual Contributor,4.8
+EMP0508,Finance,Individual Contributor,4.6
+EMP0509,HR,Individual Contributor,6.6
+EMP0510,Marketing,Manager,3.6
+EMP0511,Sales,Manager,5.2
+EMP0512,Sales,Individual Contributor,3.7
+EMP0513,HR,Director,4.8
+EMP0514,Finance,Individual Contributor,2.3
+EMP0515,Engineering,Individual Contributor,0.5
+EMP0516,Engineering,Individual Contributor,3.6
+EMP0517,Engineering,Individual Contributor,8.3
+EMP0518,Finance,Manager,6.8
+EMP0519,HR,Individual Contributor,6.9
+EMP0520,Engineering,Manager,7.7
+EMP0521,Sales,Individual Contributor,4.3
+EMP0522,Engineering,Manager,4.6
+EMP0523,HR,Individual Contributor,2.1
+EMP0524,Finance,Individual Contributor,3.1
+EMP0525,Finance,Individual Contributor,5.8
+EMP0526,Sales,Individual Contributor,7.6
+EMP0527,Sales,Individual Contributor,3.6
+EMP0528,Engineering,Individual Contributor,2.6
+EMP0529,Engineering,Manager,4.0
+EMP0530,Finance,Individual Contributor,5.8
+EMP0531,Finance,Individual Contributor,0.5
+EMP0532,HR,Individual Contributor,0.5
+EMP0533,HR,Individual Contributor,2.3
+EMP0534,Sales,Individual Contributor,0.5
+EMP0535,Marketing,Individual Contributor,2.5
+EMP0536,HR,Individual Contributor,3.6
+EMP0537,Finance,Individual Contributor,2.6
+EMP0538,Engineering,Individual Contributor,8.4
+EMP0539,Sales,Individual Contributor,5.0
+EMP0540,Engineering,Individual Contributor,4.9
+EMP0541,HR,Individual Contributor,5.9
+EMP0542,Sales,Individual Contributor,0.6
+EMP0543,Engineering,Individual Contributor,7.1
+EMP0544,Marketing,Individual Contributor,3.8
+EMP0545,Sales,Director,6.0
+EMP0546,Engineering,Individual Contributor,0.8
+EMP0547,Engineering,Manager,0.5
+EMP0548,Marketing,Individual Contributor,6.5
+EMP0549,Sales,Individual Contributor,5.1
+EMP0550,Marketing,Individual Contributor,1.3
+EMP0551,Sales,Director,1.4
+EMP0552,Finance,Individual Contributor,7.4
+EMP0553,Sales,Manager,0.5
+EMP0554,Sales,Manager,8.9
+EMP0555,Finance,Individual Contributor,1.3
+EMP0556,Sales,Individual Contributor,5.9
+EMP0557,Engineering,Individual Contributor,3.0
+EMP0558,Engineering,Individual Contributor,5.8
+EMP0559,Marketing,Manager,2.4
+EMP0560,Sales,Manager,3.5
+EMP0561,Marketing,Individual Contributor,4.1
+EMP0562,Engineering,Individual Contributor,1.0
+EMP0563,Engineering,Manager,6.2
+EMP0564,Engineering,Individual Contributor,2.5
+EMP0565,Engineering,Manager,3.3
+EMP0566,Sales,Individual Contributor,1.0
+EMP0567,Engineering,Individual Contributor,0.5
+EMP0568,Sales,Individual Contributor,3.4
+EMP0569,HR,Individual Contributor,11.2
+EMP0570,Engineering,Individual Contributor,6.4
+EMP0571,Sales,Individual Contributor,3.9
+EMP0572,Marketing,Individual Contributor,3.2
+EMP0573,Engineering,Individual Contributor,4.1
+EMP0574,Sales,Manager,5.6
+EMP0575,Finance,Individual Contributor,0.5
+EMP0576,HR,Individual Contributor,7.3
+EMP0577,Engineering,Individual Contributor,6.1
+EMP0578,HR,Individual Contributor,6.2
+EMP0579,Sales,Individual Contributor,5.3
+EMP0580,Engineering,Individual Contributor,4.1
+EMP0581,Sales,Individual Contributor,6.0
+EMP0582,HR,Individual Contributor,5.8
+EMP0583,Sales,Individual Contributor,2.9
+EMP0584,Engineering,Individual Contributor,2.3
+EMP0585,Sales,Director,4.3
+EMP0586,Engineering,Individual Contributor,8.6
+EMP0587,Engineering,Individual Contributor,0.5
+EMP0588,Engineering,Individual Contributor,0.5
+EMP0589,Engineering,Individual Contributor,4.5
+EMP0590,Engineering,Individual Contributor,4.2
+EMP0591,Engineering,Individual Contributor,4.5
+EMP0592,Sales,Director,4.7
+EMP0593,Engineering,Individual Contributor,3.3
+EMP0594,Engineering,Individual Contributor,8.5
+EMP0595,Finance,Individual Contributor,0.5
+EMP0596,Sales,Individual Contributor,1.5
+EMP0597,Marketing,Individual Contributor,3.7
+EMP0598,Engineering,Individual Contributor,0.5
+EMP0599,Engineering,Individual Contributor,3.5
+EMP0600,Engineering,Manager,9.0
+EMP0601,Engineering,Individual Contributor,4.1
+EMP0602,Engineering,Individual Contributor,4.7
+EMP0603,Engineering,Individual Contributor,0.5
+EMP0604,Engineering,Individual Contributor,2.2
+EMP0605,Engineering,Individual Contributor,2.9
+EMP0606,Sales,Individual Contributor,3.0
+EMP0607,Engineering,Individual Contributor,7.8
+EMP0608,Engineering,Manager,5.7
+EMP0609,Sales,Individual Contributor,0.7
+EMP0610,Marketing,Individual Contributor,4.7
+EMP0611,Engineering,Manager,5.5
+EMP0612,Marketing,Individual Contributor,7.4
+EMP0613,Sales,Individual Contributor,8.7
+EMP0614,Engineering,Individual Contributor,1.0
+EMP0615,Finance,Individual Contributor,1.6
+EMP0616,HR,Individual Contributor,0.5
+EMP0617,Engineering,Director,3.3
+EMP0618,Engineering,Individual Contributor,5.4
+EMP0619,Finance,Individual Contributor,7.0
+EMP0620,Marketing,Individual Contributor,3.8
+EMP0621,Engineering,Individual Contributor,3.0
+EMP0622,Engineering,Individual Contributor,4.5
+EMP0623,Engineering,Individual Contributor,1.5
+EMP0624,Sales,Director,10.3
+EMP0625,Sales,Individual Contributor,0.5
+EMP0626,Engineering,Individual Contributor,4.6
+EMP0627,Sales,Individual Contributor,10.1
+EMP0628,Marketing,Individual Contributor,4.0
+EMP0629,Engineering,Individual Contributor,3.4
+EMP0630,Engineering,Individual Contributor,2.9
+EMP0631,Marketing,Manager,3.5
+EMP0632,Finance,Individual Contributor,8.1
+EMP0633,Sales,Individual Contributor,0.5
+EMP0634,Sales,Manager,8.6
+EMP0635,Engineering,Manager,0.5
+EMP0636,Sales,Individual Contributor,3.2
+EMP0637,Sales,Individual Contributor,2.7
+EMP0638,Engineering,Individual Contributor,5.8
+EMP0639,Engineering,Director,0.5
+EMP0640,Engineering,Manager,5.4
+EMP0641,Engineering,Individual Contributor,10.1
+EMP0642,Engineering,Manager,0.5
+EMP0643,Engineering,Individual Contributor,4.6
+EMP0644,Engineering,Individual Contributor,2.0
+EMP0645,Engineering,Individual Contributor,5.3
+EMP0646,Finance,Manager,4.1
+EMP0647,Sales,Individual Contributor,2.1
+EMP0648,Marketing,Manager,5.5
+EMP0649,Marketing,Manager,9.4
+EMP0650,Sales,Individual Contributor,3.4
+EMP0651,Engineering,Individual Contributor,6.2
+EMP0652,Sales,Individual Contributor,0.5
+EMP0653,Sales,Individual Contributor,1.1
+EMP0654,Marketing,Individual Contributor,5.4
+EMP0655,Sales,Individual Contributor,8.5
+EMP0656,Engineering,Manager,5.1
+EMP0657,Engineering,Individual Contributor,3.1
+EMP0658,Engineering,Individual Contributor,4.0
+EMP0659,Sales,Individual Contributor,0.5
+EMP0660,Sales,Individual Contributor,5.8
+EMP0661,Engineering,Individual Contributor,6.6
+EMP0662,HR,Individual Contributor,2.6
+EMP0663,Sales,Manager,2.6
+EMP0664,Engineering,Individual Contributor,4.8
+EMP0665,Engineering,Director,2.7
+EMP0666,Engineering,Manager,3.8
+EMP0667,Engineering,Individual Contributor,10.3
+EMP0668,Engineering,Manager,3.3
+EMP0669,Engineering,Individual Contributor,2.9
+EMP0670,Engineering,Manager,2.1
+EMP0671,Engineering,Individual Contributor,6.2
+EMP0672,Finance,Manager,3.5
+EMP0673,Engineering,Manager,2.1
+EMP0674,Sales,Manager,8.0
+EMP0675,Sales,Manager,8.3
+EMP0676,HR,Individual Contributor,2.2
+EMP0677,Engineering,Individual Contributor,0.5
+EMP0678,Engineering,Individual Contributor,7.0
+EMP0679,HR,Individual Contributor,1.9
+EMP0680,Finance,Individual Contributor,6.4
+EMP0681,Finance,Individual Contributor,0.5
+EMP0682,Engineering,Director,6.7
+EMP0683,Engineering,Individual Contributor,0.5
+EMP0684,Marketing,Manager,6.2
+EMP0685,HR,Individual Contributor,4.0
+EMP0686,Sales,Manager,1.1
+EMP0687,Sales,Manager,2.8
+EMP0688,Engineering,Individual Contributor,6.1
+EMP0689,Marketing,Individual Contributor,4.3
+EMP0690,Engineering,Manager,5.8
+EMP0691,Engineering,Individual Contributor,9.9
+EMP0692,Sales,Individual Contributor,0.5
+EMP0693,Sales,Individual Contributor,8.9
+EMP0694,Engineering,Individual Contributor,4.3
+EMP0695,Engineering,Individual Contributor,1.3
+EMP0696,Sales,Individual Contributor,0.5
+EMP0697,Engineering,Individual Contributor,3.4
+EMP0698,Sales,Individual Contributor,6.8
+EMP0699,Engineering,Director,3.6
+EMP0700,Sales,Individual Contributor,8.5
+EMP0701,Sales,Director,0.5
+EMP0702,Engineering,Individual Contributor,4.0
+EMP0703,Engineering,Individual Contributor,0.5
+EMP0704,Engineering,Individual Contributor,5.1
+EMP0705,Engineering,Individual Contributor,6.7
+EMP0706,HR,Individual Contributor,2.7
+EMP0707,Engineering,Individual Contributor,0.5
+EMP0708,Finance,Individual Contributor,4.6
+EMP0709,Engineering,Individual Contributor,5.3
+EMP0710,Marketing,Individual Contributor,5.2
+EMP0711,Marketing,Individual Contributor,7.7
+EMP0712,Sales,Individual Contributor,0.8
+EMP0713,Sales,Manager,6.0
+EMP0714,Sales,Individual Contributor,7.6
+EMP0715,Engineering,Individual Contributor,0.5
+EMP0716,HR,Director,5.0
+EMP0717,Finance,Individual Contributor,2.5
+EMP0718,HR,Individual Contributor,3.8
+EMP0719,Engineering,Director,5.0
+EMP0720,Marketing,Individual Contributor,2.5
+EMP0721,HR,Individual Contributor,2.0
+EMP0722,Engineering,Individual Contributor,4.1
+EMP0723,Engineering,Individual Contributor,0.7
+EMP0724,Marketing,Individual Contributor,0.7
+EMP0725,Sales,Individual Contributor,6.0
+EMP0726,Finance,Individual Contributor,0.6
+EMP0727,Engineering,Individual Contributor,6.0
+EMP0728,Marketing,Director,5.4
+EMP0729,Engineering,Manager,0.5
+EMP0730,Engineering,Individual Contributor,2.0
+EMP0731,Engineering,Individual Contributor,7.6
+EMP0732,Finance,Individual Contributor,1.1
+EMP0733,Marketing,Individual Contributor,2.6
+EMP0734,Sales,Individual Contributor,5.4
+EMP0735,Engineering,Individual Contributor,6.4
+EMP0736,Finance,Manager,3.2
+EMP0737,Engineering,Individual Contributor,2.2
+EMP0738,Finance,Individual Contributor,8.3
+EMP0739,Sales,Individual Contributor,9.2
+EMP0740,Engineering,Individual Contributor,6.9
+EMP0741,Sales,Manager,4.3
+EMP0742,Engineering,Individual Contributor,1.6
+EMP0743,Marketing,Manager,1.5
+EMP0744,Sales,Individual Contributor,5.6
+EMP0745,Engineering,Individual Contributor,5.3
+EMP0746,Finance,Individual Contributor,8.2
+EMP0747,Engineering,Individual Contributor,6.0
+EMP0748,Sales,Individual Contributor,0.5
+EMP0749,HR,Manager,7.2
+EMP0750,Sales,Individual Contributor,1.0
+EMP0751,Engineering,Individual Contributor,2.8
+EMP0752,HR,Individual Contributor,4.8
+EMP0753,Sales,Individual Contributor,10.0
+EMP0754,Engineering,Individual Contributor,13.3
+EMP0755,Engineering,Director,5.8
+EMP0756,Marketing,Manager,3.5
+EMP0757,Sales,Director,5.6
+EMP0758,Sales,Individual Contributor,6.7
+EMP0759,Finance,Individual Contributor,3.0
+EMP0760,Marketing,Individual Contributor,9.4
+EMP0761,Engineering,Individual Contributor,4.7
+EMP0762,Engineering,Manager,5.5
+EMP0763,Engineering,Individual Contributor,6.0
+EMP0764,Marketing,Individual Contributor,5.3
+EMP0765,Engineering,Individual Contributor,6.5
+EMP0766,Sales,Individual Contributor,2.1
+EMP0767,Marketing,Individual Contributor,2.3
+EMP0768,Finance,Individual Contributor,0.7
+EMP0769,Engineering,Individual Contributor,5.3
+EMP0770,Finance,Individual Contributor,6.3
+EMP0771,Engineering,Individual Contributor,5.4
+EMP0772,Finance,Manager,9.0
+EMP0773,Engineering,Manager,4.0
+EMP0774,Engineering,Director,6.0
+EMP0775,Marketing,Manager,0.7
+EMP0776,Engineering,Individual Contributor,2.8
+EMP0777,Engineering,Individual Contributor,6.1
+EMP0778,Marketing,Individual Contributor,6.5
+EMP0779,Marketing,Individual Contributor,3.1
+EMP0780,Sales,Manager,3.8
+EMP0781,Marketing,Individual Contributor,0.5
+EMP0782,Sales,Manager,2.9
+EMP0783,Engineering,Individual Contributor,6.7
+EMP0784,Engineering,Individual Contributor,5.7
+EMP0785,Engineering,Individual Contributor,5.5
+EMP0786,HR,Manager,4.1
+EMP0787,Sales,Individual Contributor,4.0
+EMP0788,Sales,Individual Contributor,2.0
+EMP0789,Sales,Individual Contributor,6.1
+EMP0790,HR,Individual Contributor,5.3
+EMP0791,Engineering,Individual Contributor,5.5
+EMP0792,Sales,Individual Contributor,2.4
+EMP0793,Sales,Individual Contributor,0.5
+EMP0794,Sales,Individual Contributor,7.3
+EMP0795,Engineering,Individual Contributor,2.6
+EMP0796,Finance,Individual Contributor,1.4
+EMP0797,HR,Individual Contributor,6.1
+EMP0798,Sales,Individual Contributor,2.8
+EMP0799,Marketing,Individual Contributor,7.2
+EMP0800,HR,Individual Contributor,5.9
+EMP0801,Marketing,Director,6.1
+EMP0802,Engineering,Individual Contributor,0.5
+EMP0803,Sales,Individual Contributor,7.6
+EMP0804,Sales,Individual Contributor,4.8
+EMP0805,Sales,Individual Contributor,2.9
+EMP0806,Marketing,Manager,4.4
+EMP0807,HR,Individual Contributor,0.5
+EMP0808,HR,Individual Contributor,5.2
+EMP0809,Sales,Individual Contributor,0.9
+EMP0810,Engineering,Individual Contributor,0.5
+EMP0811,HR,Individual Contributor,0.5
+EMP0812,Finance,Manager,7.3
+EMP0813,Engineering,Individual Contributor,2.1
+EMP0814,HR,Individual Contributor,8.6
+EMP0815,Finance,Individual Contributor,2.4
+EMP0816,Sales,Director,0.5
+EMP0817,Sales,Individual Contributor,0.7
+EMP0818,Engineering,Manager,7.7
+EMP0819,Engineering,Individual Contributor,3.5
+EMP0820,Engineering,Individual Contributor,2.4
+EMP0821,Finance,Individual Contributor,4.5
+EMP0822,Engineering,Individual Contributor,5.5
+EMP0823,Engineering,Individual Contributor,7.4
+EMP0824,Engineering,Manager,8.3
+EMP0825,Sales,Individual Contributor,2.9
+EMP0826,HR,Individual Contributor,0.5
+EMP0827,Engineering,Individual Contributor,2.8
+EMP0828,Engineering,Director,4.8
+EMP0829,Marketing,Manager,1.1
+EMP0830,Sales,Individual Contributor,1.1
+EMP0831,Engineering,Director,5.0
+EMP0832,Sales,Individual Contributor,3.9
+EMP0833,Engineering,Individual Contributor,4.1
+EMP0834,Engineering,Individual Contributor,1.7
+EMP0835,Sales,Manager,3.3
+EMP0836,Sales,Individual Contributor,1.2
+EMP0837,HR,Individual Contributor,6.7
+EMP0838,Engineering,Individual Contributor,7.1
+EMP0839,Sales,Manager,0.5
+EMP0840,Sales,Individual Contributor,1.2
+EMP0841,Engineering,Individual Contributor,0.5
+EMP0842,Marketing,Individual Contributor,2.0
+EMP0843,Engineering,Individual Contributor,3.7
+EMP0844,HR,Individual Contributor,0.5
+EMP0845,Engineering,Manager,1.2
+EMP0846,Sales,Individual Contributor,1.0
+EMP0847,Engineering,Individual Contributor,4.6
+EMP0848,HR,Individual Contributor,4.2
+EMP0849,Sales,Manager,1.8
+EMP0850,Sales,Individual Contributor,4.5
+EMP0851,Engineering,Individual Contributor,2.4
+EMP0852,Marketing,Manager,3.2
+EMP0853,Engineering,Manager,9.0
+EMP0854,Finance,Manager,8.0
+EMP0855,Engineering,Manager,0.5
+EMP0856,Engineering,Individual Contributor,6.5
+EMP0857,Engineering,Manager,6.4
+EMP0858,Sales,Individual Contributor,0.6
+EMP0859,Sales,Manager,6.5
+EMP0860,Engineering,Individual Contributor,8.6
+EMP0861,Marketing,Manager,0.6
+EMP0862,Sales,Individual Contributor,1.2
+EMP0863,Sales,Individual Contributor,7.1
+EMP0864,Sales,Individual Contributor,4.8
+EMP0865,Sales,Director,5.7
+EMP0866,Sales,Manager,5.0
+EMP0867,Engineering,Individual Contributor,5.2
+EMP0868,Engineering,Individual Contributor,0.5
+EMP0869,Finance,Individual Contributor,7.1
+EMP0870,HR,Individual Contributor,7.5
+EMP0871,Engineering,Manager,3.3
+EMP0872,Engineering,Individual Contributor,3.9
+EMP0873,Sales,Individual Contributor,0.5
+EMP0874,Sales,Manager,5.5
+EMP0875,Engineering,Individual Contributor,5.7
+EMP0876,Engineering,Individual Contributor,3.8
+EMP0877,Marketing,Individual Contributor,7.4
+EMP0878,Marketing,Individual Contributor,3.0
+EMP0879,Engineering,Individual Contributor,5.7
+EMP0880,Engineering,Individual Contributor,0.9
+EMP0881,Engineering,Individual Contributor,3.9
+EMP0882,Marketing,Manager,3.5
+EMP0883,Engineering,Individual Contributor,4.7
+EMP0884,Engineering,Manager,2.9
+EMP0885,Marketing,Individual Contributor,3.6
+EMP0886,Engineering,Individual Contributor,6.5
+EMP0887,Marketing,Individual Contributor,2.7
+EMP0888,Engineering,Individual Contributor,0.5
+EMP0889,Engineering,Individual Contributor,9.2
+EMP0890,Engineering,Director,8.1
+EMP0891,Marketing,Individual Contributor,0.5
+EMP0892,Finance,Individual Contributor,6.1
+EMP0893,Finance,Manager,2.5
+EMP0894,Engineering,Individual Contributor,4.8
+EMP0895,Marketing,Individual Contributor,4.9
+EMP0896,Engineering,Individual Contributor,3.3
+EMP0897,Engineering,Individual Contributor,1.6
+EMP0898,Finance,Individual Contributor,1.9
+EMP0899,Engineering,Individual Contributor,1.3
+EMP0900,Engineering,Manager,1.5
+EMP0901,Engineering,Individual Contributor,3.8
+EMP0902,Engineering,Individual Contributor,1.9
+EMP0903,Engineering,Manager,6.0
+EMP0904,Sales,Individual Contributor,8.5
+EMP0905,Sales,Individual Contributor,2.3
+EMP0906,Finance,Individual Contributor,4.7
+EMP0907,Finance,Director,5.5
+EMP0908,Engineering,Individual Contributor,5.4
+EMP0909,Engineering,Individual Contributor,4.2
+EMP0910,Engineering,Individual Contributor,6.2
+EMP0911,Sales,Individual Contributor,5.4
+EMP0912,Engineering,Manager,0.5
+EMP0913,Sales,Director,6.6
+EMP0914,Sales,Individual Contributor,6.7
+EMP0915,Sales,Individual Contributor,1.7
+EMP0916,Sales,Individual Contributor,4.1
+EMP0917,Engineering,Manager,6.0
+EMP0918,HR,Individual Contributor,3.4
+EMP0919,Marketing,Individual Contributor,7.2
+EMP0920,Engineering,Individual Contributor,11.1
+EMP0921,Finance,Individual Contributor,1.6
+EMP0922,Sales,Individual Contributor,0.5
+EMP0923,Finance,Individual Contributor,4.9
+EMP0924,Marketing,Individual Contributor,6.2
+EMP0925,Sales,Manager,3.3
+EMP0926,Engineering,Individual Contributor,8.4
+EMP0927,Engineering,Individual Contributor,0.5
+EMP0928,Sales,Individual Contributor,6.1
+EMP0929,Sales,Individual Contributor,2.2
+EMP0930,Engineering,Individual Contributor,9.2
+EMP0931,Engineering,Individual Contributor,10.0
+EMP0932,Finance,Individual Contributor,1.7
+EMP0933,HR,Individual Contributor,2.4
+EMP0934,Sales,Individual Contributor,6.6
+EMP0935,Engineering,Individual Contributor,2.8
+EMP0936,Engineering,Manager,3.9
+EMP0937,Engineering,Individual Contributor,4.1
+EMP0938,HR,Manager,0.5
+EMP0939,Engineering,Individual Contributor,4.0
+EMP0940,Sales,Individual Contributor,1.9
+EMP0941,Engineering,Individual Contributor,2.5
+EMP0942,Sales,Individual Contributor,8.3
+EMP0943,Marketing,Manager,0.5
+EMP0944,Finance,Individual Contributor,6.4
+EMP0945,Engineering,Manager,3.2
+EMP0946,Engineering,Individual Contributor,3.2
+EMP0947,Engineering,Individual Contributor,6.4
+EMP0948,HR,Individual Contributor,5.0
+EMP0949,Finance,Individual Contributor,5.7
+EMP0950,Sales,Individual Contributor,6.9
+EMP0951,Sales,Individual Contributor,3.0
+EMP0952,Marketing,Individual Contributor,2.2
+EMP0953,Engineering,Individual Contributor,0.7
+EMP0954,HR,Individual Contributor,1.5
+EMP0955,Sales,Director,12.8
+EMP0956,Engineering,Manager,7.7
+EMP0957,Sales,Individual Contributor,0.5
+EMP0958,Engineering,Individual Contributor,0.5
+EMP0959,Engineering,Individual Contributor,5.4
+EMP0960,Marketing,Manager,5.6
+EMP0961,Engineering,Individual Contributor,5.6
+EMP0962,Sales,Individual Contributor,3.2
+EMP0963,Engineering,Manager,3.6
+EMP0964,Engineering,Individual Contributor,5.0
+EMP0965,Engineering,Individual Contributor,4.3
+EMP0966,Engineering,Individual Contributor,0.5
+EMP0967,Marketing,Individual Contributor,3.3
+EMP0968,Engineering,Individual Contributor,1.4
+EMP0969,Sales,Individual Contributor,4.5
+EMP0970,Sales,Individual Contributor,13.0
+EMP0971,Marketing,Individual Contributor,5.1
+EMP0972,HR,Manager,3.1
+EMP0973,Marketing,Individual Contributor,6.8
+EMP0974,Engineering,Individual Contributor,5.4
+EMP0975,Engineering,Individual Contributor,5.3
+EMP0976,Engineering,Manager,5.8
+EMP0977,Sales,Individual Contributor,10.2
+EMP0978,Engineering,Individual Contributor,0.6
+EMP0979,Sales,Manager,5.4
+EMP0980,Sales,Manager,1.2
+EMP0981,Engineering,Individual Contributor,5.7
+EMP0982,Marketing,Manager,1.2
+EMP0983,Engineering,Individual Contributor,2.7
+EMP0984,Engineering,Individual Contributor,3.1
+EMP0985,Marketing,Individual Contributor,6.9
+EMP0986,Sales,Individual Contributor,6.8
+EMP0987,Marketing,Individual Contributor,0.5
+EMP0988,Sales,Individual Contributor,4.2
+EMP0989,Engineering,Individual Contributor,1.9
+EMP0990,Finance,Individual Contributor,0.5
+EMP0991,Marketing,Manager,3.3
+EMP0992,Marketing,Individual Contributor,3.1
+EMP0993,Engineering,Individual Contributor,11.3
+EMP0994,Sales,Individual Contributor,5.3
+EMP0995,Engineering,Manager,0.5
+EMP0996,Engineering,Individual Contributor,2.3
+EMP0997,HR,Director,7.1
+EMP0998,Engineering,Individual Contributor,10.3
+EMP0999,HR,Individual Contributor,0.5
+EMP1000,Sales,Individual Contributor,0.5
