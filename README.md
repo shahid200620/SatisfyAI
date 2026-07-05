@@ -66,6 +66,11 @@ SatisfyAI
 ```
 
 ---
+## 🌐 Live Dashboard
+
+Explore the deployed dashboard here:
+
+**https://satisfyai-shahid.streamlit.app**
 
 # Dataset
 
